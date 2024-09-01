@@ -1,0 +1,683 @@
+,pokemon_id,move_name,move_url,method
+0,386,Leer,https://www.serebii.net//attackdex-bw/leer.shtml,Level 0
+1,386,Wrap,https://www.serebii.net//attackdex-bw/wrap.shtml,Level 0
+2,386,Night Shade,https://www.serebii.net//attackdex-bw/nightshade.shtml,Level 9
+3,386,Teleport,https://www.serebii.net//attackdex-bw/teleport.shtml,Level 17
+4,386,Knock Off,https://www.serebii.net//attackdex-bw/knockoff.shtml,Level 25
+5,386,Pursuit,https://www.serebii.net//attackdex-bw/pursuit.shtml,Level 33
+6,386,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,Level 41
+7,386,Snatch,https://www.serebii.net//attackdex-bw/snatch.shtml,Level 49
+8,386,Psycho Shift,https://www.serebii.net//attackdex-bw/psychoshift.shtml,Level 57
+9,386,Zen Headbutt,https://www.serebii.net//attackdex-bw/zenheadbutt.shtml,Level 65
+10,386,Cosmic Power,https://www.serebii.net//attackdex-bw/cosmicpower.shtml,Level 73
+11,386,Recover,https://www.serebii.net//attackdex-bw/recover.shtml,Level 81
+12,386,Psycho Boost,https://www.serebii.net//attackdex-bw/psychoboost.shtml,Level 89
+13,386,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,Level 97
+14,386,Psyshock,https://www.serebii.net//attackdex-bw/psyshock.shtml,TM03
+15,386,Calm Mind,https://www.serebii.net//attackdex-bw/calmmind.shtml,TM04
+16,386,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+17,386,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+18,386,Sunny Day,https://www.serebii.net//attackdex-bw/sunnyday.shtml,TM11
+19,386,Taunt,https://www.serebii.net//attackdex-bw/taunt.shtml,TM12
+20,386,Ice Beam,https://www.serebii.net//attackdex-bw/icebeam.shtml,TM13
+21,386,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+22,386,Light Screen,https://www.serebii.net//attackdex-bw/lightscreen.shtml,TM16
+23,386,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+24,386,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+25,386,Telekinesis,https://www.serebii.net//attackdex-bw/telekinesis.shtml,TM19
+26,386,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+27,386,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+28,386,Solarbeam,https://www.serebii.net//attackdex-bw/solarbeam.shtml,TM22
+29,386,Thunderbolt,https://www.serebii.net//attackdex-bw/thunderbolt.shtml,TM24
+30,386,Thunder,https://www.serebii.net//attackdex-bw/thunder.shtml,TM25
+31,386,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+32,386,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+33,386,Shadow Ball,https://www.serebii.net//attackdex-bw/shadowball.shtml,TM30
+34,386,Brick Break,https://www.serebii.net//attackdex-bw/brickbreak.shtml,TM31
+35,386,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+36,386,Reflect,https://www.serebii.net//attackdex-bw/reflect.shtml,TM33
+37,386,Rock Tomb,https://www.serebii.net//attackdex-bw/rocktomb.shtml,TM39
+38,386,Aerial Ace,https://www.serebii.net//attackdex-bw/aerialace.shtml,TM40
+39,386,Torment,https://www.serebii.net//attackdex-bw/torment.shtml,TM41
+40,386,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+41,386,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+42,386,Low Sweep,https://www.serebii.net//attackdex-bw/lowsweep.shtml,TM47
+43,386,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+44,386,Ally Switch,https://www.serebii.net//attackdex-bw/allyswitch.shtml,TM51
+45,386,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+46,386,Energy Ball,https://www.serebii.net//attackdex-bw/energyball.shtml,TM53
+47,386,Fling,https://www.serebii.net//attackdex-bw/fling.shtml,TM56
+48,386,Charge Beam,https://www.serebii.net//attackdex-bw/chargebeam.shtml,TM57
+49,386,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+50,386,Flash,https://www.serebii.net//attackdex-bw/flash.shtml,TM70
+51,386,Thunder Wave,https://www.serebii.net//attackdex-bw/thunderwave.shtml,TM73
+52,386,Psych Up,https://www.serebii.net//attackdex-bw/psychup.shtml,TM77
+53,386,Rock Slide,https://www.serebii.net//attackdex-bw/rockslide.shtml,TM80
+54,386,Poison Jab,https://www.serebii.net//attackdex-bw/poisonjab.shtml,TM84
+55,386,Dream Eater,https://www.serebii.net//attackdex-bw/dreameater.shtml,TM85
+56,386,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+57,386,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+58,386,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+59,386,Flash Cannon,https://www.serebii.net//attackdex-bw/flashcannon.shtml,TM91
+60,386,Trick Room,https://www.serebii.net//attackdex-bw/trickroom.shtml,TM92
+61,386,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+62,386,Cut,https://www.serebii.net//attackdex-bw/cut.shtml,HM01
+63,386,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+64,386,Bind,https://www.serebii.net//attackdex-bw/bind.shtml,Move Tutor
+65,386,Drain Punch,https://www.serebii.net//attackdex-bw/drainpunch.shtml,Move Tutor
+66,386,Fire Punch,https://www.serebii.net//attackdex-bw/firepunch.shtml,Move Tutor
+67,386,Gravity,https://www.serebii.net//attackdex-bw/gravity.shtml,Move Tutor
+68,386,Ice Punch,https://www.serebii.net//attackdex-bw/icepunch.shtml,Move Tutor
+69,386,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor
+70,386,Knock Off,https://www.serebii.net//attackdex-bw/knockoff.shtml,Move Tutor
+71,386,Low Kick,https://www.serebii.net//attackdex-bw/lowkick.shtml,Move Tutor
+72,386,Magic Coat,https://www.serebii.net//attackdex-bw/magiccoat.shtml,Move Tutor
+73,386,Recycle,https://www.serebii.net//attackdex-bw/recycle.shtml,Move Tutor
+74,386,Role Play,https://www.serebii.net//attackdex-bw/roleplay.shtml,Move Tutor
+75,386,Signal Beam,https://www.serebii.net//attackdex-bw/signalbeam.shtml,Move Tutor
+76,386,Skill Swap,https://www.serebii.net//attackdex-bw/skillswap.shtml,Move Tutor
+77,386,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+78,386,Snatch,https://www.serebii.net//attackdex-bw/snatch.shtml,Move Tutor
+79,386,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+80,386,Stealth Rock,https://www.serebii.net//attackdex-bw/stealthrock.shtml,Move Tutor
+81,386,Thunderpunch,https://www.serebii.net//attackdex-bw/thunderpunch.shtml,Move Tutor
+82,386,Trick,https://www.serebii.net//attackdex-bw/trick.shtml,Move Tutor
+83,386,Wonder Room,https://www.serebii.net//attackdex-bw/wonderroom.shtml,Move Tutor
+84,386,Zen Headbutt,https://www.serebii.net//attackdex-bw/zenheadbutt.shtml,Move Tutor
+85,386,Superpower,https://www.serebii.net//attackdex-bw/superpower.shtml,Move Tutor
+86,386,Iron Defense,https://www.serebii.net//attackdex-bw/irondefense.shtml,Move Tutor
+87,386,Focus Punch,https://www.serebii.net//attackdex-bw/focuspunch.shtml,Gen IV TM01
+88,386,Water Pulse,https://www.serebii.net//attackdex-bw/waterpulse.shtml,Gen IV TM03
+89,386,Shock Wave,https://www.serebii.net//attackdex-bw/shockwave.shtml,Gen IV TM34
+90,386,Secret Power,https://www.serebii.net//attackdex-bw/secretpower.shtml,Gen IV TM43
+91,386,Skill Swap,https://www.serebii.net//attackdex-bw/skillswap.shtml,Gen IV TM48
+92,386,Endure,https://www.serebii.net//attackdex-bw/endure.shtml,Gen IV TM58
+93,386,Drain Punch,https://www.serebii.net//attackdex-bw/drainpunch.shtml,Gen IV TM60
+94,386,Recycle,https://www.serebii.net//attackdex-bw/recycle.shtml,Gen IV TM67
+95,386,Avalanche,https://www.serebii.net//attackdex-bw/avalanche.shtml,Gen IV TM72
+96,386,Stealth Rock,https://www.serebii.net//attackdex-bw/stealthrock.shtml,Gen IV TM76
+97,386,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Gen IV TM82
+98,386,Natural Gift,https://www.serebii.net//attackdex-bw/naturalgift.shtml,Gen IV TM83
+99,386,Fire Punch,https://www.serebii.net//attackdex-bw/firepunch.shtml,Move Tutor PtHGSS
+100,386,Ice Punch,https://www.serebii.net//attackdex-bw/icepunch.shtml,Move Tutor PtHGSS
+101,386,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor PtHGSS
+102,386,Trick,https://www.serebii.net//attackdex-bw/trick.shtml,Move Tutor PtHGSS
+103,386,Thunderpunch,https://www.serebii.net//attackdex-bw/thunderpunch.shtml,Move Tutor PtHGSS
+104,386,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor PtHGSS
+105,386,Mud-slap,https://www.serebii.net//attackdex-bw/mud-slap.shtml,Move Tutor PtHGSS
+106,386,Signal Beam,https://www.serebii.net//attackdex-bw/signalbeam.shtml,Move Tutor PtHGSS
+107,386,Gravity,https://www.serebii.net//attackdex-bw/gravity.shtml,Move Tutor HGSS
+108,386,Role Play,https://www.serebii.net//attackdex-bw/roleplay.shtml,Move Tutor HGSS
+109,386,Magic Coat,https://www.serebii.net//attackdex-bw/magiccoat.shtml,Move Tutor HGSS
+110,386,Low Kick,https://www.serebii.net//attackdex-bw/lowkick.shtml,Move Tutor HGSS
+111,386,Headbutt,https://www.serebii.net//attackdex-bw/headbutt.shtml,Move Tutor HGSS
+112,487,Dragonbreath,https://www.serebii.net//attackdex-bw/dragonbreath.shtml,Level 0
+113,487,Scary Face,https://www.serebii.net//attackdex-bw/scaryface.shtml,Level 0
+114,487,Ominous Wind,https://www.serebii.net//attackdex-bw/ominouswind.shtml,Level 6
+115,487,Ancientpower,https://www.serebii.net//attackdex-bw/ancientpower.shtml,Level 10
+116,487,Slash,https://www.serebii.net//attackdex-bw/slash.shtml,Level 15
+117,487,Shadow Sneak,https://www.serebii.net//attackdex-bw/shadowsneak.shtml,Level 19
+118,487,Destiny Bond,https://www.serebii.net//attackdex-bw/destinybond.shtml,Level 24
+119,487,Dragon Claw,https://www.serebii.net//attackdex-bw/dragonclaw.shtml,Level 28
+120,487,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Level 33
+121,487,Aura Sphere,https://www.serebii.net//attackdex-bw/aurasphere.shtml,Level 37
+122,487,Shadow Claw,https://www.serebii.net//attackdex-bw/shadowclaw.shtml,Level 42
+123,487,Shadow Force,https://www.serebii.net//attackdex-bw/shadowforce.shtml,Level 46
+124,487,Hex,https://www.serebii.net//attackdex-bw/hex.shtml,Level 50
+125,487,Hone Claws,https://www.serebii.net//attackdex-bw/honeclaws.shtml,TM01
+126,487,Dragon Claw,https://www.serebii.net//attackdex-bw/dragonclaw.shtml,TM02
+127,487,Calm Mind,https://www.serebii.net//attackdex-bw/calmmind.shtml,TM04
+128,487,Roar,https://www.serebii.net//attackdex-bw/roar.shtml,TM05
+129,487,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+130,487,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+131,487,Sunny Day,https://www.serebii.net//attackdex-bw/sunnyday.shtml,TM11
+132,487,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+133,487,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+134,487,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+135,487,Telekinesis,https://www.serebii.net//attackdex-bw/telekinesis.shtml,TM19
+136,487,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+137,487,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+138,487,Thunderbolt,https://www.serebii.net//attackdex-bw/thunderbolt.shtml,TM24
+139,487,Thunder,https://www.serebii.net//attackdex-bw/thunder.shtml,TM25
+140,487,Earthquake,https://www.serebii.net//attackdex-bw/earthquake.shtml,TM26
+141,487,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+142,487,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+143,487,Shadow Ball,https://www.serebii.net//attackdex-bw/shadowball.shtml,TM30
+144,487,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+145,487,Aerial Ace,https://www.serebii.net//attackdex-bw/aerialace.shtml,TM40
+146,487,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+147,487,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+148,487,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+149,487,Echoed Voice,https://www.serebii.net//attackdex-bw/echoedvoice.shtml,TM49
+150,487,Energy Ball,https://www.serebii.net//attackdex-bw/energyball.shtml,TM53
+151,487,Charge Beam,https://www.serebii.net//attackdex-bw/chargebeam.shtml,TM57
+152,487,Will-o-wisp,https://www.serebii.net//attackdex-bw/will-o-wisp.shtml,TM61
+153,487,Shadow Claw,https://www.serebii.net//attackdex-bw/shadowclaw.shtml,TM65
+154,487,Payback,https://www.serebii.net//attackdex-bw/payback.shtml,TM66
+155,487,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+156,487,Stone Edge,https://www.serebii.net//attackdex-bw/stoneedge.shtml,TM71
+157,487,Thunder Wave,https://www.serebii.net//attackdex-bw/thunderwave.shtml,TM73
+158,487,Psych Up,https://www.serebii.net//attackdex-bw/psychup.shtml,TM77
+159,487,Bulldoze,https://www.serebii.net//attackdex-bw/bulldoze.shtml,TM78
+160,487,Dragon Tail,https://www.serebii.net//attackdex-bw/dragontail.shtml,TM82
+161,487,Dream Eater,https://www.serebii.net//attackdex-bw/dreameater.shtml,TM85
+162,487,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+163,487,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+164,487,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+165,487,Cut,https://www.serebii.net//attackdex-bw/cut.shtml,HM01
+166,487,Fly,https://www.serebii.net//attackdex-bw/fly.shtml,HM02
+167,487,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+168,487,Draco Meteor,https://www.serebii.net//attackdex-bw/dracometeor.shtml,Move Tutor
+169,487,Aqua Tail,https://www.serebii.net//attackdex-bw/aquatail.shtml,Move Tutor
+170,487,Dark Pulse,https://www.serebii.net//attackdex-bw/darkpulse.shtml,Move Tutor
+171,487,Draco Meteor,https://www.serebii.net//attackdex-bw/dracometeor.shtml,Move Tutor
+172,487,Dragon Pulse,https://www.serebii.net//attackdex-bw/dragonpulse.shtml,Move Tutor
+173,487,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor
+174,487,Gravity,https://www.serebii.net//attackdex-bw/gravity.shtml,Move Tutor
+175,487,Hyper Voice,https://www.serebii.net//attackdex-bw/hypervoice.shtml,Move Tutor
+176,487,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor
+177,487,Iron Head,https://www.serebii.net//attackdex-bw/ironhead.shtml,Move Tutor
+178,487,Iron Tail,https://www.serebii.net//attackdex-bw/irontail.shtml,Move Tutor
+179,487,Outrage,https://www.serebii.net//attackdex-bw/outrage.shtml,Move Tutor
+180,487,Pain Split,https://www.serebii.net//attackdex-bw/painsplit.shtml,Move Tutor
+181,487,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+182,487,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+183,487,Spite,https://www.serebii.net//attackdex-bw/spite.shtml,Move Tutor
+184,487,Magic Coat,https://www.serebii.net//attackdex-bw/magiccoat.shtml,Move Tutor
+185,487,Tailwind,https://www.serebii.net//attackdex-bw/tailwind.shtml,Move Tutor
+186,487,Heal Block,https://www.serebii.net//attackdex-bw/healblock.shtml, 
+187,487,Shock Wave,https://www.serebii.net//attackdex-bw/shockwave.shtml,Gen IV TM34
+188,487,Secret Power,https://www.serebii.net//attackdex-bw/secretpower.shtml,Gen IV TM43
+189,487,Steel Wing,https://www.serebii.net//attackdex-bw/steelwing.shtml,Gen IV TM47
+190,487,Endure,https://www.serebii.net//attackdex-bw/endure.shtml,Gen IV TM58
+191,487,Silver Wind,https://www.serebii.net//attackdex-bw/silverwind.shtml,Gen IV TM62
+192,487,Natural Gift,https://www.serebii.net//attackdex-bw/naturalgift.shtml,Gen IV TM83
+193,487,Defog,https://www.serebii.net//attackdex-bw/defog.shtml,Gen IV HM05 DPt
+194,487,Air Cutter,https://www.serebii.net//attackdex-bw/aircutter.shtml,Move Tutor - PtHGSS
+195,487,Fury Cutter,https://www.serebii.net//attackdex-bw/furycutter.shtml,Move Tutor - PtHGSS
+196,487,Swift,https://www.serebii.net//attackdex-bw/swift.shtml,Move Tutor - PtHGSS
+197,487,Mud-slap,https://www.serebii.net//attackdex-bw/mud-slap.shtml,Move Tutor - PtHGSS
+198,487,Twister,https://www.serebii.net//attackdex-bw/twister.shtml,Move Tutor - PtHGSS
+199,487,Headbutt,https://www.serebii.net//attackdex-bw/headbutt.shtml,Move Tutor - HGSS
+200,492,Growth,https://www.serebii.net//attackdex-bw/growth.shtml,Level 0
+201,492,Magical Leaf,https://www.serebii.net//attackdex-bw/magicalleaf.shtml,Level 10
+202,492,Leech Seed,https://www.serebii.net//attackdex-bw/leechseed.shtml,Level 19
+203,492,Synthesis,https://www.serebii.net//attackdex-bw/synthesis.shtml,Level 28
+204,492,Sweet Scent,https://www.serebii.net//attackdex-bw/sweetscent.shtml,Level 37
+205,492,Natural Gift,https://www.serebii.net//attackdex-bw/naturalgift.shtml,Level 46
+206,492,Worry Seed,https://www.serebii.net//attackdex-bw/worryseed.shtml,Level 55
+207,492,Aromatherapy,https://www.serebii.net//attackdex-bw/aromatherapy.shtml,Level 64
+208,492,Energy Ball,https://www.serebii.net//attackdex-bw/energyball.shtml,Level 73
+209,492,Sweet Kiss,https://www.serebii.net//attackdex-bw/sweetkiss.shtml,Level 82
+210,492,Healing Wish,https://www.serebii.net//attackdex-bw/healingwish.shtml,Level 91
+211,492,Seed Flare,https://www.serebii.net//attackdex-bw/seedflare.shtml,Level 100
+212,492,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+213,492,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+214,492,Sunny Day,https://www.serebii.net//attackdex-bw/sunnyday.shtml,TM11
+215,492,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+216,492,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+217,492,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+218,492,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+219,492,Solarbeam,https://www.serebii.net//attackdex-bw/solarbeam.shtml,TM22
+220,492,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+221,492,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+222,492,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+223,492,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+224,492,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+225,492,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+226,492,Energy Ball,https://www.serebii.net//attackdex-bw/energyball.shtml,TM53
+227,492,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+228,492,Flash,https://www.serebii.net//attackdex-bw/flash.shtml,TM70
+229,492,Swords Dance,https://www.serebii.net//attackdex-bw/swordsdance.shtml,TM75
+230,492,Psych Up,https://www.serebii.net//attackdex-bw/psychup.shtml,TM77
+231,492,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+232,492,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+233,492,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+234,492,Covet,https://www.serebii.net//attackdex-bw/covet.shtml,Move Tutor
+235,492,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor
+236,492,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor
+237,492,Giga Drain,https://www.serebii.net//attackdex-bw/gigadrain.shtml,Move Tutor
+238,492,Last Resort,https://www.serebii.net//attackdex-bw/lastresort.shtml,Move Tutor
+239,492,Seed Bomb,https://www.serebii.net//attackdex-bw/seedbomb.shtml,Move Tutor
+240,492,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+241,492,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+242,492,Synthesis,https://www.serebii.net//attackdex-bw/synthesis.shtml,Move Tutor
+243,492,Worry Seed,https://www.serebii.net//attackdex-bw/worryseed.shtml,Move Tutor
+244,492,Zen Headbutt,https://www.serebii.net//attackdex-bw/zenheadbutt.shtml,Move Tutor
+245,492,Tailwind,https://www.serebii.net//attackdex-bw/tailwind.shtml,Move Tutor
+246,492,Bullet Seed,https://www.serebii.net//attackdex-bw/bulletseed.shtml,Gen IV TM09
+247,492,Giga Drain,https://www.serebii.net//attackdex-bw/gigadrain.shtml,Gen IV TM19
+248,492,Secret Power,https://www.serebii.net//attackdex-bw/secretpower.shtml,Gen IV TM43
+249,492,Endure,https://www.serebii.net//attackdex-bw/endure.shtml,Gen IV TM58
+250,492,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Gen IV TM82
+251,492,Air Cutter,https://www.serebii.net//attackdex-bw/aircutter.shtml,Move Tutor PtHGSS
+252,492,Ominous Wind,https://www.serebii.net//attackdex-bw/ominouswind.shtml,Move Tutor PtHGSS
+253,492,Zen Headbutt,https://www.serebii.net//attackdex-bw/zenheadbutt.shtml,Move Tutor PtHGSS
+254,492,Last Resort,https://www.serebii.net//attackdex-bw/lastresort.shtml,Move Tutor PtHGSS
+255,492,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor PtHGSS
+256,492,Swift,https://www.serebii.net//attackdex-bw/swift.shtml,Move Tutor PtHGSS
+257,492,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor PtHGSS
+258,492,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor PtHGSS
+259,492,Mud-slap,https://www.serebii.net//attackdex-bw/mud-slap.shtml,Move Tutor PtHGSS
+260,492,Seed Bomb,https://www.serebii.net//attackdex-bw/seedbomb.shtml,Move Tutor PtHGSS
+261,492,Tailwind,https://www.serebii.net//attackdex-bw/tailwind.shtml,Move Tutor HGSS
+262,492,Headbutt,https://www.serebii.net//attackdex-bw/headbutt.shtml,Move Tutor HGSS
+263,641,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Level 0
+264,641,Astonish,https://www.serebii.net//attackdex-bw/astonish.shtml,Level 0
+265,641,Gust,https://www.serebii.net//attackdex-bw/gust.shtml,Level 0
+266,641,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,Level 7
+267,641,Bite,https://www.serebii.net//attackdex-bw/bite.shtml,Level 13
+268,641,Revenge,https://www.serebii.net//attackdex-bw/revenge.shtml,Level 19
+269,641,Air Cutter,https://www.serebii.net//attackdex-bw/aircutter.shtml,Level 25
+270,641,Extrasensory,https://www.serebii.net//attackdex-bw/extrasensory.shtml,Level 31
+271,641,Agility,https://www.serebii.net//attackdex-bw/agility.shtml,Level 37
+272,641,Air Slash,https://www.serebii.net//attackdex-bw/airslash.shtml,Level 43
+273,641,Crunch,https://www.serebii.net//attackdex-bw/crunch.shtml,Level 49
+274,641,Tailwind,https://www.serebii.net//attackdex-bw/tailwind.shtml,Level 55
+275,641,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,Level 61
+276,641,Hurricane,https://www.serebii.net//attackdex-bw/hurricane.shtml,Level 67
+277,641,Dark Pulse,https://www.serebii.net//attackdex-bw/darkpulse.shtml,Level 73
+278,641,Hammer Arm,https://www.serebii.net//attackdex-bw/hammerarm.shtml,Level 79
+279,641,Thrash,https://www.serebii.net//attackdex-bw/thrash.shtml,Level 85
+280,641,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+281,641,Bulk Up,https://www.serebii.net//attackdex-bw/bulkup.shtml,TM08
+282,641,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+283,641,Taunt,https://www.serebii.net//attackdex-bw/taunt.shtml,TM12
+284,641,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+285,641,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+286,641,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+287,641,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+288,641,Smack Down,https://www.serebii.net//attackdex-bw/smackdown.shtml,TM23
+289,641,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+290,641,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+291,641,Brick Break,https://www.serebii.net//attackdex-bw/brickbreak.shtml,TM31
+292,641,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+293,641,Sludge Wave,https://www.serebii.net//attackdex-bw/sludgewave.shtml,TM34
+294,641,Sludge Bomb,https://www.serebii.net//attackdex-bw/sludgebomb.shtml,TM36
+295,641,Aerial Ace,https://www.serebii.net//attackdex-bw/aerialace.shtml,TM40
+296,641,Torment,https://www.serebii.net//attackdex-bw/torment.shtml,TM41
+297,641,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+298,641,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+299,641,Attract,https://www.serebii.net//attackdex-bw/attract.shtml,TM45
+300,641,Thief,https://www.serebii.net//attackdex-bw/thief.shtml,TM46
+301,641,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+302,641,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+303,641,Fling,https://www.serebii.net//attackdex-bw/fling.shtml,TM56
+304,641,Sky Drop,https://www.serebii.net//attackdex-bw/skydrop.shtml,TM58
+305,641,Incinerate,https://www.serebii.net//attackdex-bw/incinerate.shtml,TM59
+306,641,Acrobatics,https://www.serebii.net//attackdex-bw/acrobatics.shtml,TM62
+307,641,Embargo,https://www.serebii.net//attackdex-bw/embargo.shtml,TM63
+308,641,Payback,https://www.serebii.net//attackdex-bw/payback.shtml,TM66
+309,641,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+310,641,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+311,641,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+312,641,U-turn,https://www.serebii.net//attackdex-bw/u-turn.shtml,TM89
+313,641,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+314,641,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+315,641,Fly,https://www.serebii.net//attackdex-bw/fly.shtml,HM02
+316,641,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+317,641,Dark Pulse,https://www.serebii.net//attackdex-bw/darkpulse.shtml,Move Tutor
+318,641,Foul Play,https://www.serebii.net//attackdex-bw/foulplay.shtml,Move Tutor
+319,641,Heat Wave,https://www.serebii.net//attackdex-bw/heatwave.shtml,Move Tutor
+320,641,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor
+321,641,Iron Tail,https://www.serebii.net//attackdex-bw/irontail.shtml,Move Tutor
+322,641,Knock Off,https://www.serebii.net//attackdex-bw/knockoff.shtml,Move Tutor
+323,641,Role Play,https://www.serebii.net//attackdex-bw/roleplay.shtml,Move Tutor
+324,641,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+325,641,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+326,641,Superpower,https://www.serebii.net//attackdex-bw/superpower.shtml,Move Tutor
+327,641,Tailwind,https://www.serebii.net//attackdex-bw/tailwind.shtml,Move Tutor
+328,641,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Move Tutor
+329,642,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Level 0
+330,642,Astonish,https://www.serebii.net//attackdex-bw/astonish.shtml,Level 0
+331,642,Thundershock,https://www.serebii.net//attackdex-bw/thundershock.shtml,Level 0
+332,642,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,Level 7
+333,642,Bite,https://www.serebii.net//attackdex-bw/bite.shtml,Level 13
+334,642,Revenge,https://www.serebii.net//attackdex-bw/revenge.shtml,Level 19
+335,642,Shock Wave,https://www.serebii.net//attackdex-bw/shockwave.shtml,Level 25
+336,642,Heal Block,https://www.serebii.net//attackdex-bw/healblock.shtml,Level 31
+337,642,Agility,https://www.serebii.net//attackdex-bw/agility.shtml,Level 37
+338,642,Discharge,https://www.serebii.net//attackdex-bw/discharge.shtml,Level 43
+339,642,Crunch,https://www.serebii.net//attackdex-bw/crunch.shtml,Level 49
+340,642,Charge,https://www.serebii.net//attackdex-bw/charge.shtml,Level 55
+341,642,Nasty Plot,https://www.serebii.net//attackdex-bw/nastyplot.shtml,Level 61
+342,642,Thunder,https://www.serebii.net//attackdex-bw/thunder.shtml,Level 67
+343,642,Dark Pulse,https://www.serebii.net//attackdex-bw/darkpulse.shtml,Level 73
+344,642,Hammer Arm,https://www.serebii.net//attackdex-bw/hammerarm.shtml,Level 79
+345,642,Thrash,https://www.serebii.net//attackdex-bw/thrash.shtml,Level 85
+346,642,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+347,642,Bulk Up,https://www.serebii.net//attackdex-bw/bulkup.shtml,TM08
+348,642,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+349,642,Taunt,https://www.serebii.net//attackdex-bw/taunt.shtml,TM12
+350,642,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+351,642,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+352,642,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+353,642,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+354,642,Smack Down,https://www.serebii.net//attackdex-bw/smackdown.shtml,TM23
+355,642,Thunderbolt,https://www.serebii.net//attackdex-bw/thunderbolt.shtml,TM24
+356,642,Thunder,https://www.serebii.net//attackdex-bw/thunder.shtml,TM25
+357,642,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+358,642,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+359,642,Brick Break,https://www.serebii.net//attackdex-bw/brickbreak.shtml,TM31
+360,642,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+361,642,Sludge Wave,https://www.serebii.net//attackdex-bw/sludgewave.shtml,TM34
+362,642,Sludge Bomb,https://www.serebii.net//attackdex-bw/sludgebomb.shtml,TM36
+363,642,Torment,https://www.serebii.net//attackdex-bw/torment.shtml,TM41
+364,642,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+365,642,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+366,642,Attract,https://www.serebii.net//attackdex-bw/attract.shtml,TM45
+367,642,Thief,https://www.serebii.net//attackdex-bw/thief.shtml,TM46
+368,642,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+369,642,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+370,642,Fling,https://www.serebii.net//attackdex-bw/fling.shtml,TM56
+371,642,Charge Beam,https://www.serebii.net//attackdex-bw/chargebeam.shtml,TM57
+372,642,Sky Drop,https://www.serebii.net//attackdex-bw/skydrop.shtml,TM58
+373,642,Incinerate,https://www.serebii.net//attackdex-bw/incinerate.shtml,TM59
+374,642,Embargo,https://www.serebii.net//attackdex-bw/embargo.shtml,TM63
+375,642,Payback,https://www.serebii.net//attackdex-bw/payback.shtml,TM66
+376,642,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+377,642,Volt Switch,https://www.serebii.net//attackdex-bw/voltswitch.shtml,TM72
+378,642,Thunder Wave,https://www.serebii.net//attackdex-bw/thunderwave.shtml,TM73
+379,642,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+380,642,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+381,642,U-turn,https://www.serebii.net//attackdex-bw/u-turn.shtml,TM89
+382,642,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+383,642,Flash Cannon,https://www.serebii.net//attackdex-bw/flashcannon.shtml,TM91
+384,642,Wild Charge,https://www.serebii.net//attackdex-bw/wildcharge.shtml,TM93
+385,642,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+386,642,Fly,https://www.serebii.net//attackdex-bw/fly.shtml,HM02
+387,642,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+388,642,Dark Pulse,https://www.serebii.net//attackdex-bw/darkpulse.shtml,Move Tutor
+389,642,Foul Play,https://www.serebii.net//attackdex-bw/foulplay.shtml,Move Tutor
+390,642,Iron Tail,https://www.serebii.net//attackdex-bw/irontail.shtml,Move Tutor
+391,642,Knock Off,https://www.serebii.net//attackdex-bw/knockoff.shtml,Move Tutor
+392,642,Role Play,https://www.serebii.net//attackdex-bw/roleplay.shtml,Move Tutor
+393,642,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+394,642,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+395,642,Superpower,https://www.serebii.net//attackdex-bw/superpower.shtml,Move Tutor
+396,642,Thunderpunch,https://www.serebii.net//attackdex-bw/thunderpunch.shtml,Move Tutor
+397,642,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Move Tutor
+398,645,Block,https://www.serebii.net//attackdex-bw/block.shtml,Level 0
+399,645,Mud Shot,https://www.serebii.net//attackdex-bw/mudshot.shtml,Level 0
+400,645,Rock Tomb,https://www.serebii.net//attackdex-bw/rocktomb.shtml,Level 0
+401,645,Imprison,https://www.serebii.net//attackdex-bw/imprison.shtml,Level 7
+402,645,Punishment,https://www.serebii.net//attackdex-bw/punishment.shtml,Level 13
+403,645,Bulldoze,https://www.serebii.net//attackdex-bw/bulldoze.shtml,Level 19
+404,645,Rock Throw,https://www.serebii.net//attackdex-bw/rockthrow.shtml,Level 25
+405,645,Extrasensory,https://www.serebii.net//attackdex-bw/extrasensory.shtml,Level 31
+406,645,Swords Dance,https://www.serebii.net//attackdex-bw/swordsdance.shtml,Level 37
+407,645,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Level 43
+408,645,Rock Slide,https://www.serebii.net//attackdex-bw/rockslide.shtml,Level 49
+409,645,Earthquake,https://www.serebii.net//attackdex-bw/earthquake.shtml,Level 55
+410,645,Sandstorm,https://www.serebii.net//attackdex-bw/sandstorm.shtml,Level 61
+411,645,Fissure,https://www.serebii.net//attackdex-bw/fissure.shtml,Level 67
+412,645,Stone Edge,https://www.serebii.net//attackdex-bw/stoneedge.shtml,Level 73
+413,645,Hammer Arm,https://www.serebii.net//attackdex-bw/hammerarm.shtml,Level 79
+414,645,Outrage,https://www.serebii.net//attackdex-bw/outrage.shtml,Level 85
+415,645,Calm Mind,https://www.serebii.net//attackdex-bw/calmmind.shtml,TM04
+416,645,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+417,645,Bulk Up,https://www.serebii.net//attackdex-bw/bulkup.shtml,TM08
+418,645,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+419,645,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+420,645,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+421,645,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+422,645,Smack Down,https://www.serebii.net//attackdex-bw/smackdown.shtml,TM23
+423,645,Earthquake,https://www.serebii.net//attackdex-bw/earthquake.shtml,TM26
+424,645,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+425,645,Dig,https://www.serebii.net//attackdex-bw/dig.shtml,TM28
+426,645,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+427,645,Brick Break,https://www.serebii.net//attackdex-bw/brickbreak.shtml,TM31
+428,645,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+429,645,Sludge Wave,https://www.serebii.net//attackdex-bw/sludgewave.shtml,TM34
+430,645,Sludge Bomb,https://www.serebii.net//attackdex-bw/sludgebomb.shtml,TM36
+431,645,Sandstorm,https://www.serebii.net//attackdex-bw/sandstorm.shtml,TM37
+432,645,Rock Tomb,https://www.serebii.net//attackdex-bw/rocktomb.shtml,TM39
+433,645,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+434,645,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+435,645,Attract,https://www.serebii.net//attackdex-bw/attract.shtml,TM45
+436,645,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+437,645,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+438,645,Fling,https://www.serebii.net//attackdex-bw/fling.shtml,TM56
+439,645,Explosion,https://www.serebii.net//attackdex-bw/explosion.shtml,TM64
+440,645,Payback,https://www.serebii.net//attackdex-bw/payback.shtml,TM66
+441,645,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+442,645,Rock Polish,https://www.serebii.net//attackdex-bw/rockpolish.shtml,TM69
+443,645,Stone Edge,https://www.serebii.net//attackdex-bw/stoneedge.shtml,TM71
+444,645,Swords Dance,https://www.serebii.net//attackdex-bw/swordsdance.shtml,TM75
+445,645,Bulldoze,https://www.serebii.net//attackdex-bw/bulldoze.shtml,TM78
+446,645,Rock Slide,https://www.serebii.net//attackdex-bw/rockslide.shtml,TM80
+447,645,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+448,645,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+449,645,U-turn,https://www.serebii.net//attackdex-bw/u-turn.shtml,TM89
+450,645,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+451,645,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+452,645,Fly,https://www.serebii.net//attackdex-bw/fly.shtml,HM02
+453,645,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+454,645,Block,https://www.serebii.net//attackdex-bw/block.shtml,Move Tutor
+455,645,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor
+456,645,Gravity,https://www.serebii.net//attackdex-bw/gravity.shtml,Move Tutor
+457,645,Iron Tail,https://www.serebii.net//attackdex-bw/irontail.shtml,Move Tutor
+458,645,Knock Off,https://www.serebii.net//attackdex-bw/knockoff.shtml,Move Tutor
+459,645,Outrage,https://www.serebii.net//attackdex-bw/outrage.shtml,Move Tutor
+460,645,Role Play,https://www.serebii.net//attackdex-bw/roleplay.shtml,Move Tutor
+461,645,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+462,645,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+463,645,Stealth Rock,https://www.serebii.net//attackdex-bw/stealthrock.shtml,Move Tutor
+464,645,Superpower,https://www.serebii.net//attackdex-bw/superpower.shtml,Move Tutor
+465,646,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Level 0
+466,646,Dragon Rage,https://www.serebii.net//attackdex-bw/dragonrage.shtml,Level 0
+467,646,Imprison,https://www.serebii.net//attackdex-bw/imprison.shtml,Level 8
+468,646,Ancientpower,https://www.serebii.net//attackdex-bw/ancientpower.shtml,Level 15
+469,646,Ice Beam,https://www.serebii.net//attackdex-bw/icebeam.shtml,Level 22
+470,646,Dragonbreath,https://www.serebii.net//attackdex-bw/dragonbreath.shtml,Level 29
+471,646,Slash,https://www.serebii.net//attackdex-bw/slash.shtml,Level 36
+472,646,Scary Face,https://www.serebii.net//attackdex-bw/scaryface.shtml,Level 43
+473,646,Glaciate,https://www.serebii.net//attackdex-bw/glaciate.shtml,Level 50
+474,646,Dragon Pulse,https://www.serebii.net//attackdex-bw/dragonpulse.shtml,Level 57
+475,646,Imprison,https://www.serebii.net//attackdex-bw/imprison.shtml,Level 64
+476,646,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Level 71
+477,646,Blizzard,https://www.serebii.net//attackdex-bw/blizzard.shtml,Level 78
+478,646,Outrage,https://www.serebii.net//attackdex-bw/outrage.shtml,Level 85
+479,646,Hyper Voice,https://www.serebii.net//attackdex-bw/hypervoice.shtml,Level 92
+480,646,Hone Claws,https://www.serebii.net//attackdex-bw/honeclaws.shtml,TM01
+481,646,Dragon Claw,https://www.serebii.net//attackdex-bw/dragonclaw.shtml,TM02
+482,646,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+483,646,Hail,https://www.serebii.net//attackdex-bw/hail.shtml,TM07
+484,646,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+485,646,Sunny Day,https://www.serebii.net//attackdex-bw/sunnyday.shtml,TM11
+486,646,Ice Beam,https://www.serebii.net//attackdex-bw/icebeam.shtml,TM13
+487,646,Blizzard,https://www.serebii.net//attackdex-bw/blizzard.shtml,TM14
+488,646,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+489,646,Light Screen,https://www.serebii.net//attackdex-bw/lightscreen.shtml,TM16
+490,646,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+491,646,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+492,646,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+493,646,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+494,646,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+495,646,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+496,646,Shadow Ball,https://www.serebii.net//attackdex-bw/shadowball.shtml,TM30
+497,646,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+498,646,Reflect,https://www.serebii.net//attackdex-bw/reflect.shtml,TM33
+499,646,Rock Tomb,https://www.serebii.net//attackdex-bw/rocktomb.shtml,TM39
+500,646,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+501,646,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+502,646,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+503,646,Echoed Voice,https://www.serebii.net//attackdex-bw/echoedvoice.shtml,TM49
+504,646,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+505,646,Fling,https://www.serebii.net//attackdex-bw/fling.shtml,TM56
+506,646,Shadow Claw,https://www.serebii.net//attackdex-bw/shadowclaw.shtml,TM65
+507,646,Payback,https://www.serebii.net//attackdex-bw/payback.shtml,TM66
+508,646,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+509,646,Stone Edge,https://www.serebii.net//attackdex-bw/stoneedge.shtml,TM71
+510,646,Rock Slide,https://www.serebii.net//attackdex-bw/rockslide.shtml,TM80
+511,646,Dragon Tail,https://www.serebii.net//attackdex-bw/dragontail.shtml,TM82
+512,646,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+513,646,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+514,646,Flash Cannon,https://www.serebii.net//attackdex-bw/flashcannon.shtml,TM91
+515,646,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+516,646,Cut,https://www.serebii.net//attackdex-bw/cut.shtml,HM01
+517,646,Fly,https://www.serebii.net//attackdex-bw/fly.shtml,HM02
+518,646,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+519,646,Draco Meteor,https://www.serebii.net//attackdex-bw/dracometeor.shtml,Move Tutor
+520,646,Draco Meteor,https://www.serebii.net//attackdex-bw/dracometeor.shtml,Move Tutor
+521,646,Dragon Pulse,https://www.serebii.net//attackdex-bw/dragonpulse.shtml,Move Tutor
+522,646,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor
+523,646,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor
+524,646,Hyper Voice,https://www.serebii.net//attackdex-bw/hypervoice.shtml,Move Tutor
+525,646,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor
+526,646,Iron Head,https://www.serebii.net//attackdex-bw/ironhead.shtml,Move Tutor
+527,646,Outrage,https://www.serebii.net//attackdex-bw/outrage.shtml,Move Tutor
+528,646,Roost,https://www.serebii.net//attackdex-bw/roost.shtml,Move Tutor
+529,646,Signal Beam,https://www.serebii.net//attackdex-bw/signalbeam.shtml,Move Tutor
+530,646,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+531,646,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+532,646,Zen Headbutt,https://www.serebii.net//attackdex-bw/zenheadbutt.shtml,Move Tutor
+533,647,Aqua Jet,https://www.serebii.net//attackdex-bw/aquajet.shtml,Level 0
+534,647,Leer,https://www.serebii.net//attackdex-bw/leer.shtml,Level 0
+535,647,Double Kick,https://www.serebii.net//attackdex-bw/doublekick.shtml,Level 7
+536,647,Bubblebeam,https://www.serebii.net//attackdex-bw/bubblebeam.shtml,Level 13
+537,647,Take Down,https://www.serebii.net//attackdex-bw/takedown.shtml,Level 19
+538,647,Helping Hand,https://www.serebii.net//attackdex-bw/helpinghand.shtml,Level 25
+539,647,Retaliate,https://www.serebii.net//attackdex-bw/retaliate.shtml,Level 31
+540,647,Aqua Tail,https://www.serebii.net//attackdex-bw/aquatail.shtml,Level 37
+541,647,Sacred Sword,https://www.serebii.net//attackdex-bw/sacredsword.shtml,Level 43
+542,647,Swords Dance,https://www.serebii.net//attackdex-bw/swordsdance.shtml,Level 49
+543,647,Quick Guard,https://www.serebii.net//attackdex-bw/quickguard.shtml,Level 55
+544,647,Work Up,https://www.serebii.net//attackdex-bw/workup.shtml,Level 61
+545,647,Hydro Pump,https://www.serebii.net//attackdex-bw/hydropump.shtml,Level 67
+546,647,Close Combat,https://www.serebii.net//attackdex-bw/closecombat.shtml,Level 73
+547,647,Calm Mind,https://www.serebii.net//attackdex-bw/calmmind.shtml,TM04
+548,647,Roar,https://www.serebii.net//attackdex-bw/roar.shtml,TM05
+549,647,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+550,647,Hail,https://www.serebii.net//attackdex-bw/hail.shtml,TM07
+551,647,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+552,647,Taunt,https://www.serebii.net//attackdex-bw/taunt.shtml,TM12
+553,647,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+554,647,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+555,647,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+556,647,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+557,647,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+558,647,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+559,647,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+560,647,Reflect,https://www.serebii.net//attackdex-bw/reflect.shtml,TM33
+561,647,Aerial Ace,https://www.serebii.net//attackdex-bw/aerialace.shtml,TM40
+562,647,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+563,647,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+564,647,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+565,647,Focus Blast,https://www.serebii.net//attackdex-bw/focusblast.shtml,TM52
+566,647,False Swipe,https://www.serebii.net//attackdex-bw/falseswipe.shtml,TM54
+567,647,Scald,https://www.serebii.net//attackdex-bw/scald.shtml,TM55
+568,647,Retaliate,https://www.serebii.net//attackdex-bw/retaliate.shtml,TM67
+569,647,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+570,647,Stone Edge,https://www.serebii.net//attackdex-bw/stoneedge.shtml,TM71
+571,647,Swords Dance,https://www.serebii.net//attackdex-bw/swordsdance.shtml,TM75
+572,647,Psych Up,https://www.serebii.net//attackdex-bw/psychup.shtml,TM77
+573,647,X-scissor,https://www.serebii.net//attackdex-bw/x-scissor.shtml,TM81
+574,647,Work Up,https://www.serebii.net//attackdex-bw/workup.shtml,TM83
+575,647,Poison Jab,https://www.serebii.net//attackdex-bw/poisonjab.shtml,TM84
+576,647,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+577,647,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+578,647,Rock Smash,https://www.serebii.net//attackdex-bw/rocksmash.shtml,TM94
+579,647,Cut,https://www.serebii.net//attackdex-bw/cut.shtml,HM01
+580,647,Surf,https://www.serebii.net//attackdex-bw/surf.shtml,HM03
+581,647,Strength,https://www.serebii.net//attackdex-bw/strength.shtml,HM04
+582,647,Secret Sword,https://www.serebii.net//attackdex-bw/secretsword.shtml,Move Tutor
+583,647,Aqua Tail,https://www.serebii.net//attackdex-bw/aquatail.shtml,Move Tutor
+584,647,Bounce,https://www.serebii.net//attackdex-bw/bounce.shtml,Move Tutor
+585,647,Covet,https://www.serebii.net//attackdex-bw/covet.shtml,Move Tutor
+586,647,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor
+587,647,Helping Hand,https://www.serebii.net//attackdex-bw/helpinghand.shtml,Move Tutor
+588,647,Icy Wind,https://www.serebii.net//attackdex-bw/icywind.shtml,Move Tutor
+589,647,Last Resort,https://www.serebii.net//attackdex-bw/lastresort.shtml,Move Tutor
+590,647,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+591,647,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+592,647,Superpower,https://www.serebii.net//attackdex-bw/superpower.shtml,Move Tutor
+593,413,Tackle,https://www.serebii.net//attackdex-bw/tackle.shtml,Level 0
+594,413,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,Level 10
+595,413,Bug Bite,https://www.serebii.net//attackdex-bw/bugbite.shtml,Level 15
+596,413,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,Level 20
+597,413,Confusion,https://www.serebii.net//attackdex-bw/confusion.shtml,Level 23
+598,413,Razor Leaf,https://www.serebii.net//attackdex-bw/razorleaf.shtml,Level 26
+599,413,Growth,https://www.serebii.net//attackdex-bw/growth.shtml,Level 29
+600,413,Psybeam,https://www.serebii.net//attackdex-bw/psybeam.shtml,Level 32
+601,413,Captivate,https://www.serebii.net//attackdex-bw/captivate.shtml,Level 35
+602,413,Flail,https://www.serebii.net//attackdex-bw/flail.shtml,Level 38
+603,413,Attract,https://www.serebii.net//attackdex-bw/attract.shtml,Level 41
+604,413,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,Level 44
+605,413,Leaf Storm,https://www.serebii.net//attackdex-bw/leafstorm.shtml,Level 47
+606,413,Toxic,https://www.serebii.net//attackdex-bw/toxic.shtml,TM06
+607,413,Venoshock,https://www.serebii.net//attackdex-bw/venoshock.shtml,TM09
+608,413,Hidden Power,https://www.serebii.net//attackdex-bw/hiddenpower.shtml,TM10
+609,413,Sunny Day,https://www.serebii.net//attackdex-bw/sunnyday.shtml,TM11
+610,413,Hyper Beam,https://www.serebii.net//attackdex-bw/hyperbeam.shtml,TM15
+611,413,Protect,https://www.serebii.net//attackdex-bw/protect.shtml,TM17
+612,413,Rain Dance,https://www.serebii.net//attackdex-bw/raindance.shtml,TM18
+613,413,Safeguard,https://www.serebii.net//attackdex-bw/safeguard.shtml,TM20
+614,413,Frustration,https://www.serebii.net//attackdex-bw/frustration.shtml,TM21
+615,413,Solarbeam,https://www.serebii.net//attackdex-bw/solarbeam.shtml,TM22
+616,413,Earthquake,https://www.serebii.net//attackdex-bw/earthquake.shtml,TM26
+617,413,Return,https://www.serebii.net//attackdex-bw/return.shtml,TM27
+618,413,Dig,https://www.serebii.net//attackdex-bw/dig.shtml,TM28
+619,413,Psychic,https://www.serebii.net//attackdex-bw/psychic.shtml,TM29
+620,413,Shadow Ball,https://www.serebii.net//attackdex-bw/shadowball.shtml,TM30
+621,413,Double Team,https://www.serebii.net//attackdex-bw/doubleteam.shtml,TM32
+622,413,Sandstorm,https://www.serebii.net//attackdex-bw/sandstorm.shtml,TM37
+623,413,Rock Tomb,https://www.serebii.net//attackdex-bw/rocktomb.shtml,TM39
+624,413,Facade,https://www.serebii.net//attackdex-bw/facade.shtml,TM42
+625,413,Rest,https://www.serebii.net//attackdex-bw/rest.shtml,TM44
+626,413,Attract,https://www.serebii.net//attackdex-bw/attract.shtml,TM45
+627,413,Thief,https://www.serebii.net//attackdex-bw/thief.shtml,TM46
+628,413,Round,https://www.serebii.net//attackdex-bw/round.shtml,TM48
+629,413,Energy Ball,https://www.serebii.net//attackdex-bw/energyball.shtml,TM53
+630,413,Giga Impact,https://www.serebii.net//attackdex-bw/gigaimpact.shtml,TM68
+631,413,Flash,https://www.serebii.net//attackdex-bw/flash.shtml,TM70
+632,413,Gyro Ball,https://www.serebii.net//attackdex-bw/gyroball.shtml,TM74
+633,413,Struggle Bug,https://www.serebii.net//attackdex-bw/strugglebug.shtml,TM76
+634,413,Psych Up,https://www.serebii.net//attackdex-bw/psychup.shtml,TM77
+635,413,Bulldoze,https://www.serebii.net//attackdex-bw/bulldoze.shtml,TM78
+636,413,Dream Eater,https://www.serebii.net//attackdex-bw/dreameater.shtml,TM85
+637,413,Grass Knot,https://www.serebii.net//attackdex-bw/grassknot.shtml,TM86
+638,413,Swagger,https://www.serebii.net//attackdex-bw/swagger.shtml,TM87
+639,413,Substitute,https://www.serebii.net//attackdex-bw/substitute.shtml,TM90
+640,413,Flash Cannon,https://www.serebii.net//attackdex-bw/flashcannon.shtml,TM91
+641,413,Bug Bite,https://www.serebii.net//attackdex-bw/bugbite.shtml,Move Tutor
+642,413,Electroweb,https://www.serebii.net//attackdex-bw/electroweb.shtml,Move Tutor
+643,413,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor
+644,413,Giga Drain,https://www.serebii.net//attackdex-bw/gigadrain.shtml,Move Tutor
+645,413,Seed Bomb,https://www.serebii.net//attackdex-bw/seedbomb.shtml,Move Tutor
+646,413,Signal Beam,https://www.serebii.net//attackdex-bw/signalbeam.shtml,Move Tutor
+647,413,Skill Swap,https://www.serebii.net//attackdex-bw/skillswap.shtml,Move Tutor
+648,413,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Move Tutor
+649,413,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor
+650,413,Synthesis,https://www.serebii.net//attackdex-bw/synthesis.shtml,Move Tutor
+651,413,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Move Tutor
+652,413,Worry Seed,https://www.serebii.net//attackdex-bw/worryseed.shtml,Move Tutor
+653,413,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor
+654,413,Stealth Rock,https://www.serebii.net//attackdex-bw/stealthrock.shtml,Move Tutor
+655,413,Gunk Shot,https://www.serebii.net//attackdex-bw/gunkshot.shtml,Move Tutor
+656,413,Iron Defense,https://www.serebii.net//attackdex-bw/irondefense.shtml,Move Tutor
+657,413,Iron Head,https://www.serebii.net//attackdex-bw/ironhead.shtml,Move Tutor
+658,413,Magnet Rise,https://www.serebii.net//attackdex-bw/magnetrise.shtml,Move Tutor
+659,413,Bullet Seed,https://www.serebii.net//attackdex-bw/bulletseed.shtml,Gen IV TM09
+660,413,Giga Drain,https://www.serebii.net//attackdex-bw/gigadrain.shtml,Gen IV TM19
+661,413,Secret Power,https://www.serebii.net//attackdex-bw/secretpower.shtml,Gen IV TM43
+662,413,Skill Swap,https://www.serebii.net//attackdex-bw/skillswap.shtml,Gen IV TM48
+663,413,Endure,https://www.serebii.net//attackdex-bw/endure.shtml,Gen IV TM58
+664,413,Stealth Rock,https://www.serebii.net//attackdex-bw/stealthrock.shtml,Gen IV TM76
+665,413,Sleep Talk,https://www.serebii.net//attackdex-bw/sleeptalk.shtml,Gen IV TM82
+666,413,Natural Gift,https://www.serebii.net//attackdex-bw/naturalgift.shtml,Gen IV TM83
+667,413,Sucker Punch,https://www.serebii.net//attackdex-bw/suckerpunch.shtml,Move Tutor PtHGSS
+668,413,Magnet Rise,https://www.serebii.net//attackdex-bw/magnetrise.shtml,Move Tutor PtHGSS
+669,413,Snore,https://www.serebii.net//attackdex-bw/snore.shtml,Move Tutor PtHGSS
+670,413,Synthesis,https://www.serebii.net//attackdex-bw/synthesis.shtml,Move Tutor PtHGSS
+671,413,Uproar,https://www.serebii.net//attackdex-bw/uproar.shtml,Move Tutor PtHGSS
+672,413,Earth Power,https://www.serebii.net//attackdex-bw/earthpower.shtml,Move Tutor PtHGSS
+673,413,Endeavor,https://www.serebii.net//attackdex-bw/endeavor.shtml,Move Tutor PtHGSS
+674,413,Gunk Shot,https://www.serebii.net//attackdex-bw/gunkshot.shtml,Move Tutor PtHGSS
+675,413,Iron Defense,https://www.serebii.net//attackdex-bw/irondefense.shtml,Move Tutor PtHGSS
+676,413,Mud-slap,https://www.serebii.net//attackdex-bw/mud-slap.shtml,Move Tutor PtHGSS
+677,413,Rollout,https://www.serebii.net//attackdex-bw/rollout.shtml,Move Tutor PtHGSS
+678,413,Seed Bomb,https://www.serebii.net//attackdex-bw/seedbomb.shtml,Move Tutor PtHGSS
+679,413,Signal Beam,https://www.serebii.net//attackdex-bw/signalbeam.shtml,Move Tutor PtHGSS
+680,413,String Shot,https://www.serebii.net//attackdex-bw/stringshot.shtml,Move Tutor HGSS
+681,413,Worry Seed,https://www.serebii.net//attackdex-bw/worryseed.shtml,Move Tutor HGSS

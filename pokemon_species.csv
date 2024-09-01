@@ -1,0 +1,669 @@
+id,url,name,type1,type2,ability1,ability2,hidden_ability,HP,Atk,Def,SpA,SpD,Spe,total
+0,https://www.serebii.net/pokedex-bw/001.shtml,Bulbasaur,grass,poison,Overgrow,,Chlorophyll,45,49,49,65,65,45,318
+1,https://www.serebii.net/pokedex-bw/002.shtml,Ivysaur,grass,poison,Overgrow,,Chlorophyll,60,62,63,80,80,60,405
+2,https://www.serebii.net/pokedex-bw/003.shtml,Venusaur,grass,poison,Overgrow,,Chlorophyll,80,82,83,100,100,80,525
+3,https://www.serebii.net/pokedex-bw/004.shtml,Charmander,fire,,Blaze,,Solar Power,39,52,43,60,50,65,309
+4,https://www.serebii.net/pokedex-bw/005.shtml,Charmeleon,fire,,Blaze,,Solar Power,58,64,58,80,65,80,405
+5,https://www.serebii.net/pokedex-bw/006.shtml,Charizard,fire,flying,Blaze,,Solar Power,78,84,78,109,85,100,534
+6,https://www.serebii.net/pokedex-bw/007.shtml,Squirtle,water,,Torrent,,Rain Dish,44,48,65,50,64,43,314
+7,https://www.serebii.net/pokedex-bw/008.shtml,Wartortle,water,,Torrent,,Rain Dish,59,63,80,65,80,58,405
+8,https://www.serebii.net/pokedex-bw/009.shtml,Blastoise,water,,Torrent,,Rain Dish,79,83,100,85,105,78,530
+9,https://www.serebii.net/pokedex-bw/010.shtml,Caterpie,bug,,Shield Dust,,Run Away,45,30,35,20,20,45,195
+10,https://www.serebii.net/pokedex-bw/011.shtml,Metapod,bug,,Shed Skin,,,50,20,55,25,25,30,205
+11,https://www.serebii.net/pokedex-bw/012.shtml,Butterfree,bug,flying,Compoundeyes,,Tinted Lens,60,45,50,80,80,70,385
+12,https://www.serebii.net/pokedex-bw/013.shtml,Weedle,bug,poison,Shield Dust,,Run Away,40,35,30,20,20,50,195
+13,https://www.serebii.net/pokedex-bw/014.shtml,Kakuna,bug,poison,Shed Skin,,,45,25,50,25,25,35,205
+14,https://www.serebii.net/pokedex-bw/015.shtml,Beedrill,bug,poison,Swarm,,Sniper,65,80,40,45,80,75,385
+15,https://www.serebii.net/pokedex-bw/016.shtml,Pidgey,normal,flying,Keen Eye,Tangled Feet,Big Pecks,40,45,40,35,35,56,251
+16,https://www.serebii.net/pokedex-bw/017.shtml,Pidgeotto,normal,flying,Keen Eye,Tangled Feet,Big Pecks,63,60,55,50,50,71,349
+17,https://www.serebii.net/pokedex-bw/018.shtml,Pidgeot,normal,flying,Keen Eye,Tangled Feet,Big Pecks,83,80,75,70,70,91,469
+18,https://www.serebii.net/pokedex-bw/019.shtml,Rattata,normal,,Run Away,Guts,Hustle,30,56,35,25,35,72,253
+19,https://www.serebii.net/pokedex-bw/020.shtml,Raticate,normal,,Run Away,Guts,Hustle,55,81,60,50,70,97,413
+20,https://www.serebii.net/pokedex-bw/021.shtml,Spearow,normal,flying,Keen Eye,,Sniper,40,60,30,31,31,70,262
+21,https://www.serebii.net/pokedex-bw/022.shtml,Fearow,normal,flying,Keen Eye,,Sniper,65,90,65,61,61,100,442
+22,https://www.serebii.net/pokedex-bw/023.shtml,Ekans,poison,,Intimidate,Shed Skin,Unnerve,35,60,44,40,54,55,288
+23,https://www.serebii.net/pokedex-bw/024.shtml,Arbok,poison,,Intimidate,Shed Skin,Unnerve,60,85,69,65,79,80,438
+24,https://www.serebii.net/pokedex-bw/025.shtml,Pikachu,electric,,Static,,Lightningrod,35,55,30,50,40,90,300
+25,https://www.serebii.net/pokedex-bw/026.shtml,Raichu,electric,,Static,,Lightningrod,60,90,55,90,80,100,475
+26,https://www.serebii.net/pokedex-bw/027.shtml,Sandshrew,ground,,Sand Veil,,Sand Rush,50,75,85,20,30,40,300
+27,https://www.serebii.net/pokedex-bw/028.shtml,Sandslash,ground,,Sand Veil,,Sand Rush,75,100,110,45,55,65,450
+28,https://www.serebii.net/pokedex-bw/029.shtml,Nidoran♀,poison,,Poison Point,Rivalry,Hustle,55,47,52,40,40,41,275
+29,https://www.serebii.net/pokedex-bw/030.shtml,Nidorina,poison,,Poison Point,Rivalry,Hustle,70,62,67,55,55,56,365
+30,https://www.serebii.net/pokedex-bw/031.shtml,Nidoqueen,poison,ground,Poison Point,Rivalry,Sheer Force,90,82,87,75,85,76,495
+31,https://www.serebii.net/pokedex-bw/032.shtml,Nidoran♂,poison,,Poison Point,Rivalry,Hustle,46,57,40,40,40,50,273
+32,https://www.serebii.net/pokedex-bw/033.shtml,Nidorino,poison,,Poison Point,Rivalry,Hustle,61,72,57,55,55,65,365
+33,https://www.serebii.net/pokedex-bw/034.shtml,Nidoking,poison,ground,Poison Point,Rivalry,Sheer Force,81,92,77,85,75,85,495
+34,https://www.serebii.net/pokedex-bw/035.shtml,Clefairy,normal,,Cute Charm,Magic Guard,Friend Guard,70,45,48,60,65,35,323
+35,https://www.serebii.net/pokedex-bw/036.shtml,Clefable,normal,,Cute Charm,Magic Guard,Unaware,95,70,73,85,90,60,473
+36,https://www.serebii.net/pokedex-bw/037.shtml,Vulpix,fire,,Flash Fire,,Drought,38,41,40,50,65,65,299
+37,https://www.serebii.net/pokedex-bw/038.shtml,Ninetales,fire,,Flash Fire,,Drought,73,76,75,81,100,100,505
+38,https://www.serebii.net/pokedex-bw/039.shtml,Jigglypuff,normal,,Cute Charm,,Friend Guard,115,45,20,45,25,20,270
+39,https://www.serebii.net/pokedex-bw/040.shtml,Wigglytuff,normal,,Cute Charm,,Frisk,140,70,45,75,50,45,425
+40,https://www.serebii.net/pokedex-bw/041.shtml,Zubat,poison,flying,Inner Focus,,Infiltrator,40,45,35,30,40,55,245
+41,https://www.serebii.net/pokedex-bw/042.shtml,Golbat,poison,flying,Inner Focus,,Infiltrator,75,80,70,65,75,90,455
+42,https://www.serebii.net/pokedex-bw/043.shtml,Oddish,grass,poison,Chlorophyll,,Run Away,45,50,55,75,65,30,320
+43,https://www.serebii.net/pokedex-bw/044.shtml,Gloom,grass,poison,Chlorophyll,,Stench,60,65,70,85,75,40,395
+44,https://www.serebii.net/pokedex-bw/045.shtml,Vileplume,grass,poison,Chlorophyll,,Effect Spore,75,80,85,100,90,50,480
+45,https://www.serebii.net/pokedex-bw/046.shtml,Paras,bug,grass,Effect Spore,Dry Skin,Damp,35,70,55,45,55,25,285
+46,https://www.serebii.net/pokedex-bw/047.shtml,Parasect,bug,grass,Effect Spore,Dry Skin,Damp,60,95,80,60,80,30,405
+47,https://www.serebii.net/pokedex-bw/048.shtml,Venonat,bug,poison,Compoundeyes,Tinted Lens,Run Away,60,55,50,40,55,45,305
+48,https://www.serebii.net/pokedex-bw/049.shtml,Venomoth,bug,poison,Shield Dust,Tinted Lens,Wonder Skin ,70,65,60,90,75,90,450
+49,https://www.serebii.net/pokedex-bw/050.shtml,Diglett,ground,,Sand Veil,Arena Trap,Sand Force,10,55,25,35,45,95,265
+50,https://www.serebii.net/pokedex-bw/051.shtml,Dugtrio,ground,,Sand Veil,Arena Trap,Sand Force,35,80,50,50,70,120,405
+51,https://www.serebii.net/pokedex-bw/052.shtml,Meowth,normal,,Pickup,Technician,Unnerve,40,45,35,40,40,90,290
+52,https://www.serebii.net/pokedex-bw/053.shtml,Persian,normal,,Limber,Technician,Unnerve,65,70,60,65,65,115,440
+53,https://www.serebii.net/pokedex-bw/054.shtml,Psyduck,water,,Damp,Cloud Nine,Swift Swim,50,52,48,65,50,55,320
+54,https://www.serebii.net/pokedex-bw/055.shtml,Golduck,water,,Damp,Cloud Nine,Swift Swim,80,82,78,95,80,85,500
+55,https://www.serebii.net/pokedex-bw/056.shtml,Mankey,fighting,,Vital Spirit,Anger Point,Defiant,40,80,35,35,45,70,305
+56,https://www.serebii.net/pokedex-bw/057.shtml,Primeape,fighting,,Vital Spirit,Anger Point,Defiant,65,105,60,60,70,95,455
+57,https://www.serebii.net/pokedex-bw/058.shtml,Growlithe,fire,,Intimidate,Flash Fire,Justified,55,70,45,70,50,60,350
+58,https://www.serebii.net/pokedex-bw/059.shtml,Arcanine,fire,,Intimidate,Flash Fire,Justified,90,110,80,100,80,95,555
+59,https://www.serebii.net/pokedex-bw/060.shtml,Poliwag,water,,Water Absorb,Damp,Swift Swim,40,50,40,40,40,90,300
+60,https://www.serebii.net/pokedex-bw/061.shtml,Poliwhirl,water,,Water Absorb,Damp,Swift Swim,65,65,65,50,50,90,385
+61,https://www.serebii.net/pokedex-bw/062.shtml,Poliwrath,water,fighting,Water Absorb,Damp,Swift Swim,90,85,95,70,90,70,500
+62,https://www.serebii.net/pokedex-bw/063.shtml,Abra,psychic,,Synchronize,Inner Focus,Magic Guard,25,20,15,105,55,90,310
+63,https://www.serebii.net/pokedex-bw/064.shtml,Kadabra,psychic,,Synchronize,Inner Focus,Magic Guard,40,35,30,120,70,105,400
+64,https://www.serebii.net/pokedex-bw/065.shtml,Alakazam,psychic,,Synchronize,Inner Focus,Magic Guard,55,50,45,135,85,120,490
+65,https://www.serebii.net/pokedex-bw/066.shtml,Machop,fighting,,Guts,No Guard,Steadfast,70,80,50,35,35,35,305
+66,https://www.serebii.net/pokedex-bw/067.shtml,Machoke,fighting,,Guts,No Guard,Steadfast,80,100,70,50,60,45,405
+67,https://www.serebii.net/pokedex-bw/068.shtml,Machamp,fighting,,Guts,No Guard,Steadfast,90,130,80,65,85,55,505
+68,https://www.serebii.net/pokedex-bw/069.shtml,Bellsprout,grass,poison,Chlorophyll,,Gluttony,50,75,35,70,30,40,300
+69,https://www.serebii.net/pokedex-bw/070.shtml,Weepinbell,grass,poison,Chlorophyll,,Gluttony,65,90,50,85,45,55,390
+70,https://www.serebii.net/pokedex-bw/071.shtml,Victreebel,grass,poison,Chlorophyll,,Gluttony,80,105,65,100,60,70,480
+71,https://www.serebii.net/pokedex-bw/072.shtml,Tentacool,water,poison,Clear Body,Liquid Ooze,Rain Dish,40,40,35,50,100,70,335
+72,https://www.serebii.net/pokedex-bw/073.shtml,Tentacruel,water,poison,Clear Body,Liquid Ooze,Rain Dish,80,70,65,80,120,100,515
+73,https://www.serebii.net/pokedex-bw/074.shtml,Geodude,rock,ground,Rock Head,Sturdy,Sand Veil,40,80,100,30,30,20,300
+74,https://www.serebii.net/pokedex-bw/075.shtml,Graveler,rock,ground,Rock Head,Sturdy,Sand Veil,55,95,115,45,45,35,390
+75,https://www.serebii.net/pokedex-bw/076.shtml,Golem,rock,ground,Rock Head,Sturdy,Sand Veil,80,110,130,55,65,45,485
+76,https://www.serebii.net/pokedex-bw/077.shtml,Ponyta,fire,,Run Away,Flash Fire,Flame Body,50,85,55,65,65,90,410
+77,https://www.serebii.net/pokedex-bw/078.shtml,Rapidash,fire,,Run Away,Flash Fire,Flame Body,65,100,70,80,80,105,500
+78,https://www.serebii.net/pokedex-bw/079.shtml,Slowpoke,water,psychic,Oblivious,Own Tempo,Regenerator,90,65,65,40,40,15,315
+79,https://www.serebii.net/pokedex-bw/080.shtml,Slowbro,water,psychic,Oblivious,Own Tempo,Regenerator,95,75,110,100,80,30,490
+80,https://www.serebii.net/pokedex-bw/081.shtml,Magnemite,electric,steel,Magnet Pull,Sturdy,Analytic,25,35,70,95,55,45,325
+81,https://www.serebii.net/pokedex-bw/082.shtml,Magneton,electric,steel,Magnet Pull,Sturdy,Analytic,50,60,95,120,70,70,465
+82,https://www.serebii.net/pokedex-bw/083.shtml,Farfetch'd,normal,flying,Keen Eye,Inner Focus,Defiant,52,65,55,58,62,60,352
+83,https://www.serebii.net/pokedex-bw/084.shtml,Doduo,normal,flying,Run Away,Early Bird,Tangled Feet,35,85,45,35,35,75,310
+84,https://www.serebii.net/pokedex-bw/085.shtml,Dodrio,normal,flying,Run Away,Early Bird,Tangled Feet,60,110,70,60,60,100,460
+85,https://www.serebii.net/pokedex-bw/086.shtml,Seel,water,,Thick Fat,Hydration,Ice Body,65,45,55,45,70,45,325
+86,https://www.serebii.net/pokedex-bw/087.shtml,Dewgong,water,ice,Thick Fat,Hydration,Ice Body,90,70,80,70,95,70,475
+87,https://www.serebii.net/pokedex-bw/088.shtml,Grimer,poison,,Stench,Sticky Hold,Poison Touch,80,80,50,40,50,25,325
+88,https://www.serebii.net/pokedex-bw/089.shtml,Muk,poison,,Stench,Sticky Hold,Poison Touch,105,105,75,65,100,50,500
+89,https://www.serebii.net/pokedex-bw/090.shtml,Shellder,water,,Shell Armor,Skill Link,Overcoat,30,65,100,45,25,40,305
+90,https://www.serebii.net/pokedex-bw/091.shtml,Cloyster,water,ice,Shell Armor,Skill Link,Overcoat,50,95,180,85,45,70,525
+91,https://www.serebii.net/pokedex-bw/092.shtml,Gastly,ghost,poison,Levitate,,,30,35,30,100,35,80,310
+92,https://www.serebii.net/pokedex-bw/093.shtml,Haunter,ghost,poison,Levitate,,,45,50,45,115,55,95,405
+93,https://www.serebii.net/pokedex-bw/094.shtml,Gengar,ghost,poison,Levitate,,,60,65,60,130,75,110,500
+94,https://www.serebii.net/pokedex-bw/095.shtml,Onix,rock,ground,Rock Head,Sturdy,Weak Armor,35,45,160,30,45,70,385
+95,https://www.serebii.net/pokedex-bw/096.shtml,Drowzee,psychic,,Insomnia,Forewarn,Inner Focus,60,48,45,43,90,42,328
+96,https://www.serebii.net/pokedex-bw/097.shtml,Hypno,psychic,,Insomnia,Forewarn,Inner Focus,85,73,70,73,115,67,483
+97,https://www.serebii.net/pokedex-bw/098.shtml,Krabby,water,,Hyper Cutter,Shell Armor,Sheer Force,30,105,90,25,25,50,325
+98,https://www.serebii.net/pokedex-bw/099.shtml,Kingler,water,,Hyper Cutter,Shell Armor,Sheer Force,55,130,115,50,50,75,475
+99,https://www.serebii.net/pokedex-bw/100.shtml,Voltorb,electric,,Soundproof,Static,Aftermath,40,30,50,55,55,100,330
+100,https://www.serebii.net/pokedex-bw/101.shtml,Electrode,electric,,Soundproof,Static,Aftermath,60,50,70,80,80,140,480
+101,https://www.serebii.net/pokedex-bw/102.shtml,Exeggcute,grass,psychic,Chlorophyll,,Harvest,60,40,80,60,45,40,325
+102,https://www.serebii.net/pokedex-bw/103.shtml,Exeggutor,grass,psychic,Chlorophyll,,Harvest,95,95,85,125,65,55,520
+103,https://www.serebii.net/pokedex-bw/104.shtml,Cubone,ground,,Rock Head,Lightningrod,Battle Armor,50,50,95,40,50,35,320
+104,https://www.serebii.net/pokedex-bw/105.shtml,Marowak,ground,,Rock Head,Lightningrod,Battle Armor,60,80,110,50,80,45,425
+105,https://www.serebii.net/pokedex-bw/106.shtml,Hitmonlee,fighting,,Limber,Reckless,Unburden,50,120,53,35,110,87,455
+106,https://www.serebii.net/pokedex-bw/107.shtml,Hitmonchan,fighting,,Keen Eye,Iron Fist,Inner Focus,50,105,79,35,110,76,455
+107,https://www.serebii.net/pokedex-bw/108.shtml,Lickitung,normal,,Own Tempo,Oblivious,Cloud Nine,90,55,75,60,75,30,385
+108,https://www.serebii.net/pokedex-bw/109.shtml,Koffing,poison,,Levitate,,,40,65,95,60,45,35,340
+109,https://www.serebii.net/pokedex-bw/110.shtml,Weezing,poison,,Levitate,,,65,90,120,85,70,60,490
+110,https://www.serebii.net/pokedex-bw/111.shtml,Rhyhorn,ground,rock,Lightningrod,Rock Head,Reckless,80,85,95,30,30,25,345
+111,https://www.serebii.net/pokedex-bw/112.shtml,Rhydon,ground,rock,Lightningrod,Rock Head,Reckless,105,130,120,45,45,40,485
+112,https://www.serebii.net/pokedex-bw/113.shtml,Chansey,normal,,Natural Cure,Serene Grace,Healer,250,5,5,35,105,50,450
+113,https://www.serebii.net/pokedex-bw/114.shtml,Tangela,grass,,Chlorophyll,Leaf Guard,Regenerator,65,55,115,100,40,60,435
+114,https://www.serebii.net/pokedex-bw/115.shtml,Kangaskhan,normal,,Early Bird,Scrappy,Inner Focus,105,95,80,40,80,90,490
+115,https://www.serebii.net/pokedex-bw/116.shtml,Horsea,water,,Swift Swim,Sniper,Damp,30,40,70,70,25,60,295
+116,https://www.serebii.net/pokedex-bw/117.shtml,Seadra,water,,Poison Point,Sniper,Damp,55,65,95,95,45,85,440
+117,https://www.serebii.net/pokedex-bw/118.shtml,Goldeen,water,,Swift Swim,Water Veil,Lightningrod,45,67,60,35,50,63,320
+118,https://www.serebii.net/pokedex-bw/119.shtml,Seaking,water,,Swift Swim,Water Veil,Lightningrod,80,92,65,65,80,68,450
+119,https://www.serebii.net/pokedex-bw/120.shtml,Staryu,water,,Illuminate,Natural Cure,Analytic,30,45,55,70,55,85,340
+120,https://www.serebii.net/pokedex-bw/121.shtml,Starmie,water,psychic,Illuminate,Natural Cure,Analytic,60,75,85,100,85,115,520
+121,https://www.serebii.net/pokedex-bw/122.shtml,Mr. Mime,psychic,,Soundproof,Filter,Technician,40,45,65,100,120,90,460
+122,https://www.serebii.net/pokedex-bw/123.shtml,Scyther,bug,flying,Swarm,Technician,Steadfast,70,110,80,55,80,105,500
+123,https://www.serebii.net/pokedex-bw/124.shtml,Jynx,ice,psychic,Oblivious,Forewarn,Dry Skin,65,50,35,115,95,95,455
+124,https://www.serebii.net/pokedex-bw/125.shtml,Electabuzz,electric,,Static,,Vital Spirit,65,83,57,95,85,105,490
+125,https://www.serebii.net/pokedex-bw/126.shtml,Magmar,fire,,Flame Body,,Vital Spirit,65,95,57,100,85,93,495
+126,https://www.serebii.net/pokedex-bw/127.shtml,Pinsir,bug,,Hyper Cutter,Mold Breaker,Moxie,65,125,100,55,70,85,500
+127,https://www.serebii.net/pokedex-bw/128.shtml,Tauros,normal,,Intimidate,Anger Point,Sheer Force,75,100,95,40,70,110,490
+128,https://www.serebii.net/pokedex-bw/129.shtml,Magikarp,water,,Swift Swim,,Rattled,20,10,55,15,20,80,200
+129,https://www.serebii.net/pokedex-bw/130.shtml,Gyarados,water,flying,Intimidate,,Moxie,95,125,79,60,100,81,540
+130,https://www.serebii.net/pokedex-bw/131.shtml,Lapras,water,ice,Water Absorb,Shell Armor,Hydration,130,85,80,85,95,60,535
+131,https://www.serebii.net/pokedex-bw/132.shtml,Ditto,normal,,Limber,,Imposter,48,48,48,48,48,48,288
+132,https://www.serebii.net/pokedex-bw/133.shtml,Eevee,normal,,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325
+133,https://www.serebii.net/pokedex-bw/134.shtml,Vaporeon,water,,Water Absorb,,Hydration,130,65,60,110,95,65,525
+134,https://www.serebii.net/pokedex-bw/135.shtml,Jolteon,electric,,Volt Absorb,,Quick Feet,65,65,60,110,95,130,525
+135,https://www.serebii.net/pokedex-bw/136.shtml,Flareon,fire,,Flash Fire,,Guts,65,130,60,95,110,65,525
+136,https://www.serebii.net/pokedex-bw/137.shtml,Porygon,normal,,Trace,Download,Analytic,65,60,70,85,75,40,395
+137,https://www.serebii.net/pokedex-bw/138.shtml,Omanyte,rock,water,Swift Swim,Shell Armor,Weak Armor,35,40,100,90,55,35,355
+138,https://www.serebii.net/pokedex-bw/139.shtml,Omastar,rock,water,Swift Swim,Shell Armor,Weak Armor,70,60,125,115,70,55,495
+139,https://www.serebii.net/pokedex-bw/140.shtml,Kabuto,rock,water,Swift Swim,Battle Armor,Weak Armor,30,80,90,55,45,55,355
+140,https://www.serebii.net/pokedex-bw/141.shtml,Kabutops,rock,water,Swift Swim,Battle Armor,Weak Armor,60,115,105,65,70,80,495
+141,https://www.serebii.net/pokedex-bw/142.shtml,Aerodactyl,rock,flying,Rock Head,Pressure,Unnerve,80,105,65,60,75,130,515
+142,https://www.serebii.net/pokedex-bw/143.shtml,Snorlax,normal,,Immunity,Thick Fat,Gluttony,160,110,65,65,110,30,540
+143,https://www.serebii.net/pokedex-bw/144.shtml,Articuno,ice,flying,Pressure,,Snow Cloak,90,85,100,95,125,85,580
+144,https://www.serebii.net/pokedex-bw/145.shtml,Zapdos,electric,flying,Pressure,,Lightningrod,90,90,85,125,90,100,580
+145,https://www.serebii.net/pokedex-bw/146.shtml,Moltres,fire,flying,Pressure,,Flame Body,90,100,90,125,85,90,580
+146,https://www.serebii.net/pokedex-bw/147.shtml,Dratini,dragon,,Shed Skin,,Marvel Scale,41,64,45,50,50,50,300
+147,https://www.serebii.net/pokedex-bw/148.shtml,Dragonair,dragon,,Shed Skin,,Marvel Scale,61,84,65,70,70,70,420
+148,https://www.serebii.net/pokedex-bw/149.shtml,Dragonite,dragon,flying,Inner Focus,,Multiscale,91,134,95,100,100,80,600
+149,https://www.serebii.net/pokedex-bw/150.shtml,Mewtwo,psychic,,Pressure,,Unnerve,106,110,90,154,90,130,680
+150,https://www.serebii.net/pokedex-bw/151.shtml,Mew,psychic,,Synchronize,,,100,100,100,100,100,100,600
+151,https://www.serebii.net/pokedex-bw/152.shtml,Chikorita,grass,,Overgrow,,Leaf Guard,45,49,65,49,65,45,318
+152,https://www.serebii.net/pokedex-bw/153.shtml,Bayleef,grass,,Overgrow,,Leaf Guard,60,62,80,63,80,60,405
+153,https://www.serebii.net/pokedex-bw/154.shtml,Meganium,grass,,Overgrow,,Leaf Guard,80,82,100,83,100,80,525
+154,https://www.serebii.net/pokedex-bw/155.shtml,Cyndaquil,fire,,Blaze,,Flash Fire,39,52,43,60,50,65,309
+155,https://www.serebii.net/pokedex-bw/156.shtml,Quilava,fire,,Blaze,,Flash Fire,58,64,58,80,65,80,405
+156,https://www.serebii.net/pokedex-bw/157.shtml,Typhlosion,fire,,Blaze,,Flash Fire,78,84,78,109,85,100,534
+157,https://www.serebii.net/pokedex-bw/158.shtml,Totodile,water,,Torrent,,Sheer Force,50,65,64,44,48,43,314
+158,https://www.serebii.net/pokedex-bw/159.shtml,Croconaw,water,,Torrent,,Sheer Force,65,80,80,59,63,58,405
+159,https://www.serebii.net/pokedex-bw/160.shtml,Feraligatr,water,,Torrent,,Sheer Force,85,105,100,79,83,78,530
+160,https://www.serebii.net/pokedex-bw/161.shtml,Sentret,normal,,Run Away,Keen Eye,Frisk,35,46,34,35,45,20,215
+161,https://www.serebii.net/pokedex-bw/162.shtml,Furret,normal,,Run Away,Keen Eye,Frisk,85,76,64,45,55,90,415
+162,https://www.serebii.net/pokedex-bw/163.shtml,Hoothoot,normal,flying,Insomnia,Keen Eye,Tinted Lens,60,30,30,36,56,50,262
+163,https://www.serebii.net/pokedex-bw/164.shtml,Noctowl,normal,flying,Insomnia,Keen Eye,Tinted Lens,100,50,50,76,96,70,442
+164,https://www.serebii.net/pokedex-bw/165.shtml,Ledyba,bug,flying,Swarm,Early Bird,Rattled,40,20,30,40,80,55,265
+165,https://www.serebii.net/pokedex-bw/166.shtml,Ledian,bug,flying,Swarm,Early Bird,Iron Fist,55,35,50,55,110,85,390
+166,https://www.serebii.net/pokedex-bw/167.shtml,Spinarak,bug,poison,Swarm,Insomnia,Sniper,40,60,40,40,40,30,250
+167,https://www.serebii.net/pokedex-bw/168.shtml,Ariados,bug,poison,Swarm,Insomnia,Sniper,70,90,70,60,60,40,390
+168,https://www.serebii.net/pokedex-bw/169.shtml,Crobat,poison,flying,Inner Focus,,Infiltrator,85,90,80,70,80,130,535
+169,https://www.serebii.net/pokedex-bw/170.shtml,Chinchou,water,electric,Volt Absorb,Illuminate,Water Absorb,75,38,38,56,56,67,330
+170,https://www.serebii.net/pokedex-bw/171.shtml,Lanturn,water,electric,Volt Absorb,Illuminate,Water Absorb,125,58,58,76,76,67,460
+171,https://www.serebii.net/pokedex-bw/172.shtml,Pichu,electric,,Static,,Lightningrod,20,40,15,35,35,60,205
+172,https://www.serebii.net/pokedex-bw/173.shtml,Cleffa,normal,,Cute Charm,Magic Guard,Friend Guard,50,25,28,45,55,15,218
+173,https://www.serebii.net/pokedex-bw/174.shtml,Igglybuff,normal,,Cute Charm,,Friend Guard,90,30,15,40,20,15,210
+174,https://www.serebii.net/pokedex-bw/175.shtml,Togepi,normal,,Hustle,Serene Grace,Super Luck,35,20,65,40,65,20,245
+175,https://www.serebii.net/pokedex-bw/176.shtml,Togetic,normal,flying,Hustle,Serene Grace,Super Luck,55,40,85,80,105,40,405
+176,https://www.serebii.net/pokedex-bw/177.shtml,Natu,psychic,flying,Synchronize,Early Bird,Magic Bounce,40,50,45,70,45,70,320
+177,https://www.serebii.net/pokedex-bw/178.shtml,Xatu,psychic,flying,Synchronize,Early Bird,Magic Bounce,65,75,70,95,70,95,470
+178,https://www.serebii.net/pokedex-bw/179.shtml,Mareep,electric,,Static,,Plus,55,40,40,65,45,35,280
+179,https://www.serebii.net/pokedex-bw/180.shtml,Flaaffy,electric,,Static,,Plus,70,55,55,80,60,45,365
+180,https://www.serebii.net/pokedex-bw/181.shtml,Ampharos,electric,,Static,,Plus,90,75,75,115,90,55,500
+181,https://www.serebii.net/pokedex-bw/182.shtml,Bellossom,grass,,Chlorophyll,,Healer,75,80,85,90,100,50,480
+182,https://www.serebii.net/pokedex-bw/183.shtml,Marill,water,,Thick Fat,Huge Power,Sap Sipper,70,20,50,20,50,40,250
+183,https://www.serebii.net/pokedex-bw/184.shtml,Azumarill,water,,Thick Fat,Huge Power,Sap Sipper,100,50,80,50,80,50,410
+184,https://www.serebii.net/pokedex-bw/185.shtml,Sudowoodo,rock,,Sturdy,Rock Head,Rattled,70,100,115,30,65,30,410
+185,https://www.serebii.net/pokedex-bw/186.shtml,Politoed,water,,Water Absorb,Damp,Drizzle,90,75,75,90,100,70,500
+186,https://www.serebii.net/pokedex-bw/187.shtml,Hoppip,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,35,35,40,35,55,50,250
+187,https://www.serebii.net/pokedex-bw/188.shtml,Skiploom,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,55,45,50,45,65,80,340
+188,https://www.serebii.net/pokedex-bw/189.shtml,Jumpluff,grass,flying,Chlorophyll,Leaf Guard,Infiltrator,75,55,70,55,85,110,450
+189,https://www.serebii.net/pokedex-bw/190.shtml,Aipom,normal,,Run Away,Pickup,Skill Link,55,70,55,40,55,85,360
+190,https://www.serebii.net/pokedex-bw/191.shtml,Sunkern,grass,,Chlorophyll,Solar Power,Early Bird,30,30,30,30,30,30,180
+191,https://www.serebii.net/pokedex-bw/192.shtml,Sunflora,grass,,Chlorophyll,Solar Power,Early Bird,75,75,55,105,85,30,425
+192,https://www.serebii.net/pokedex-bw/193.shtml,Yanma,bug,flying,Speed Boost,Compoundeyes,Frisk,65,65,45,75,45,95,390
+193,https://www.serebii.net/pokedex-bw/194.shtml,Wooper,water,ground,Damp,Water Absorb,Unaware,55,45,45,25,25,15,210
+194,https://www.serebii.net/pokedex-bw/195.shtml,Quagsire,water,ground,Damp,Water Absorb,Unaware,95,85,85,65,65,35,430
+195,https://www.serebii.net/pokedex-bw/196.shtml,Espeon,psychic,,Synchronize,,Magic Bounce,65,65,60,130,95,110,525
+196,https://www.serebii.net/pokedex-bw/197.shtml,Umbreon,dark,,Synchronize,,Inner Focus,95,65,110,60,130,65,525
+197,https://www.serebii.net/pokedex-bw/198.shtml,Murkrow,dark,flying,Insomnia,Super Luck,Prankster,60,85,42,85,42,91,405
+198,https://www.serebii.net/pokedex-bw/199.shtml,Slowking,water,psychic,Oblivious,Own Tempo,Regenerator,95,75,80,100,110,30,490
+199,https://www.serebii.net/pokedex-bw/200.shtml,Misdreavus,ghost,,Levitate,,,60,60,60,85,85,85,435
+200,https://www.serebii.net/pokedex-bw/201.shtml,Unown,psychic,,Levitate,,,48,72,48,72,48,48,336
+201,https://www.serebii.net/pokedex-bw/202.shtml,Wobbuffet,psychic,,Shadow Tag,,Telepathy,190,33,58,33,58,33,405
+202,https://www.serebii.net/pokedex-bw/203.shtml,Girafarig,normal,psychic,Inner Focus,Early Bird,Sap Sipper,70,80,65,90,65,85,455
+203,https://www.serebii.net/pokedex-bw/204.shtml,Pineco,bug,,Sturdy,,Overcoat,50,65,90,35,35,15,290
+204,https://www.serebii.net/pokedex-bw/205.shtml,Forretress,bug,steel,Sturdy,,Overcoat,75,90,140,60,60,40,465
+205,https://www.serebii.net/pokedex-bw/206.shtml,Dunsparce,normal,,Serene Grace,Run Away,Rattled,100,70,70,65,65,45,415
+206,https://www.serebii.net/pokedex-bw/207.shtml,Gligar,ground,flying,Hyper Cutter,Sand Veil,Immunity,65,75,105,35,65,85,430
+207,https://www.serebii.net/pokedex-bw/208.shtml,Steelix,steel,ground,Rock Head,Sturdy,Sheer Force,75,85,200,55,65,30,510
+208,https://www.serebii.net/pokedex-bw/209.shtml,Snubbull,normal,,Intimidate,Run Away,Rattled,60,80,50,40,40,30,300
+209,https://www.serebii.net/pokedex-bw/210.shtml,Granbull,normal,,Intimidate,Quick Feet,Rattled,90,120,75,60,60,45,450
+210,https://www.serebii.net/pokedex-bw/211.shtml,Qwilfish,water,poison,Poison Point,Swift Swim,Intimidate,65,95,75,55,55,85,430
+211,https://www.serebii.net/pokedex-bw/212.shtml,Scizor,bug,steel,Swarm,Technician,Light Metal,70,130,100,55,80,65,500
+212,https://www.serebii.net/pokedex-bw/213.shtml,Shuckle,bug,rock,Sturdy,Gluttony,Contrary,20,10,230,10,230,5,505
+213,https://www.serebii.net/pokedex-bw/214.shtml,Heracross,bug,fighting,Swarm,Guts,Moxie,80,125,75,40,95,85,500
+214,https://www.serebii.net/pokedex-bw/215.shtml,Sneasel,dark,ice,Inner Focus,Keen Eye,Pickpocket,55,95,55,35,75,115,430
+215,https://www.serebii.net/pokedex-bw/216.shtml,Teddiursa,normal,,Pickup,Quick Feet,Honey Gather,60,80,50,50,50,40,330
+216,https://www.serebii.net/pokedex-bw/217.shtml,Ursaring,normal,,Guts,Quick Feet,Unnerve,90,130,75,75,75,55,500
+217,https://www.serebii.net/pokedex-bw/218.shtml,Slugma,fire,,Magma Armor,Flame Body,Weak Armor,40,40,40,70,40,20,250
+218,https://www.serebii.net/pokedex-bw/219.shtml,Magcargo,fire,rock,Magma Armor,Flame Body,Weak Armor,50,50,120,80,80,30,410
+219,https://www.serebii.net/pokedex-bw/220.shtml,Swinub,ice,ground,Oblivious,Snow Cloak,Thick Fat,50,50,40,30,30,50,250
+220,https://www.serebii.net/pokedex-bw/221.shtml,Piloswine,ice,ground,Oblivious,Snow Cloak,Thick Fat,100,100,80,60,60,50,450
+221,https://www.serebii.net/pokedex-bw/222.shtml,Corsola,water,rock,Hustle,Natural Cure,Regenerator,55,55,85,65,85,35,380
+222,https://www.serebii.net/pokedex-bw/223.shtml,Remoraid,water,,Hustle,Sniper,Moody,35,65,35,65,35,65,300
+223,https://www.serebii.net/pokedex-bw/224.shtml,Octillery,water,,Suction Cups,Sniper,Moody,75,105,75,105,75,45,480
+224,https://www.serebii.net/pokedex-bw/225.shtml,Delibird,ice,flying,Vital Spirit,Hustle,Insomnia,45,55,45,65,45,75,330
+225,https://www.serebii.net/pokedex-bw/226.shtml,Mantine,water,flying,Swift Swim,Water Absorb,Water Veil,65,40,70,80,140,70,465
+226,https://www.serebii.net/pokedex-bw/227.shtml,Skarmory,steel,flying,Keen Eye,Sturdy,Weak Armor,65,80,140,40,70,70,465
+227,https://www.serebii.net/pokedex-bw/228.shtml,Houndour,dark,fire,Early Bird,Flash Fire,Unnerve,45,60,30,80,50,65,330
+228,https://www.serebii.net/pokedex-bw/229.shtml,Houndoom,dark,fire,Early Bird,Flash Fire,Unnerve,75,90,50,110,80,95,500
+229,https://www.serebii.net/pokedex-bw/230.shtml,Kingdra,water,dragon,Swift Swim,Sniper,Damp,75,95,95,95,95,85,540
+230,https://www.serebii.net/pokedex-bw/231.shtml,Phanpy,ground,,Pickup,,Sand Veil,90,60,60,40,40,40,330
+231,https://www.serebii.net/pokedex-bw/232.shtml,Donphan,ground,,Sturdy,,Sand Veil,90,120,120,60,60,50,500
+232,https://www.serebii.net/pokedex-bw/233.shtml,Porygon2,normal,,Trace,Download,Analytic,85,80,90,105,95,60,515
+233,https://www.serebii.net/pokedex-bw/234.shtml,Stantler,normal,,Intimidate,Frisk,Sap Sipper,73,95,62,85,65,85,465
+234,https://www.serebii.net/pokedex-bw/235.shtml,Smeargle,normal,,Own Tempo,Technician,Moody,55,20,35,20,45,75,250
+235,https://www.serebii.net/pokedex-bw/236.shtml,Tyrogue,fighting,,Guts,Steadfast,Vital Spirit,35,35,35,35,35,35,210
+236,https://www.serebii.net/pokedex-bw/237.shtml,Hitmontop,fighting,,Intimidate,Technician,Steadfast,50,95,95,35,110,70,455
+237,https://www.serebii.net/pokedex-bw/238.shtml,Smoochum,ice,psychic,Oblivious,Forewarn,Hydration,45,30,15,85,65,65,305
+238,https://www.serebii.net/pokedex-bw/239.shtml,Elekid,electric,,Static,,Vital Spirit,45,63,37,65,55,95,360
+239,https://www.serebii.net/pokedex-bw/240.shtml,Magby,fire,,Flame Body,,Vital Spirit,45,75,37,70,55,83,365
+240,https://www.serebii.net/pokedex-bw/241.shtml,Miltank,normal,,Thick Fat,Scrappy,Sap Sipper,95,80,105,40,70,100,490
+241,https://www.serebii.net/pokedex-bw/242.shtml,Blissey,normal,,Natural Cure,Serene Grace,Healer,255,10,10,75,135,55,540
+242,https://www.serebii.net/pokedex-bw/243.shtml,Raikou,electric,,Pressure,,Volt Absorb,90,85,75,115,100,115,580
+243,https://www.serebii.net/pokedex-bw/244.shtml,Entei,fire,,Pressure,,Flash Fire,115,115,85,90,75,100,580
+244,https://www.serebii.net/pokedex-bw/245.shtml,Suicune,water,,Pressure,,Water Absorb,100,75,115,90,115,85,580
+245,https://www.serebii.net/pokedex-bw/246.shtml,Larvitar,rock,ground,Guts,,Sand Veil,50,64,50,45,50,41,300
+246,https://www.serebii.net/pokedex-bw/247.shtml,Pupitar,rock,ground,Shed Skin,,,70,84,70,65,70,51,410
+247,https://www.serebii.net/pokedex-bw/248.shtml,Tyranitar,rock,dark,Sand Stream,,Unnerve,100,134,110,95,100,61,600
+248,https://www.serebii.net/pokedex-bw/249.shtml,Lugia,psychic,flying,Pressure,,Multiscale,106,90,130,90,154,110,680
+249,https://www.serebii.net/pokedex-bw/250.shtml,Ho-Oh,fire,flying,Pressure,,Regenerator,106,130,90,110,154,90,680
+250,https://www.serebii.net/pokedex-bw/251.shtml,Celebi,psychic,grass,Natural Cure,,,100,100,100,100,100,100,600
+251,https://www.serebii.net/pokedex-bw/252.shtml,Treecko,grass,,Overgrow,,Unburden,40,45,35,65,55,70,310
+252,https://www.serebii.net/pokedex-bw/253.shtml,Grovyle,grass,,Overgrow,,Unburden,50,65,45,85,65,95,405
+253,https://www.serebii.net/pokedex-bw/254.shtml,Sceptile,grass,,Overgrow,,Unburden,70,85,65,105,85,120,530
+254,https://www.serebii.net/pokedex-bw/255.shtml,Torchic,fire,,Blaze,,Speed Boost,45,60,40,70,50,45,310
+255,https://www.serebii.net/pokedex-bw/256.shtml,Combusken,fire,fighting,Blaze,,Speed Boost,60,85,60,85,60,55,405
+256,https://www.serebii.net/pokedex-bw/257.shtml,Blaziken,fire,fighting,Blaze,,Speed Boost,80,120,70,110,70,80,530
+257,https://www.serebii.net/pokedex-bw/258.shtml,Mudkip,water,,Torrent,,Damp,50,70,50,50,50,40,310
+258,https://www.serebii.net/pokedex-bw/259.shtml,Marshtomp,water,ground,Torrent,,Damp,70,85,70,60,70,50,405
+259,https://www.serebii.net/pokedex-bw/260.shtml,Swampert,water,ground,Torrent,,Damp,100,110,90,85,90,60,535
+260,https://www.serebii.net/pokedex-bw/261.shtml,Poochyena,dark,,Run Away,Quick Feet,Rattled,35,55,35,30,30,35,220
+261,https://www.serebii.net/pokedex-bw/262.shtml,Mightyena,dark,,Intimidate,Quick Feet,Moxie,70,90,70,60,60,70,420
+262,https://www.serebii.net/pokedex-bw/263.shtml,Zigzagoon,normal,,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240
+263,https://www.serebii.net/pokedex-bw/264.shtml,Linoone,normal,,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420
+264,https://www.serebii.net/pokedex-bw/265.shtml,Wurmple,bug,,Shield Dust,,Run Away,45,45,35,20,30,20,195
+265,https://www.serebii.net/pokedex-bw/266.shtml,Silcoon,bug,,Shed Skin,,,50,35,55,25,25,15,205
+266,https://www.serebii.net/pokedex-bw/267.shtml,Beautifly,bug,flying,Swarm,,Rivalry,60,70,50,90,50,65,385
+267,https://www.serebii.net/pokedex-bw/268.shtml,Cascoon,bug,,Shed Skin,,,50,35,55,25,25,15,205
+268,https://www.serebii.net/pokedex-bw/269.shtml,Dustox,bug,poison,Shield Dust,,Compoundeyes,60,50,70,50,90,65,385
+269,https://www.serebii.net/pokedex-bw/270.shtml,Lotad,water,grass,Swift Swim,Rain Dish,Own Tempo,40,30,30,40,50,30,220
+270,https://www.serebii.net/pokedex-bw/271.shtml,Lombre,water,grass,Swift Swim,Rain Dish,Own Tempo,60,50,50,60,70,50,340
+271,https://www.serebii.net/pokedex-bw/272.shtml,Ludicolo,water,grass,Swift Swim,Rain Dish,Own Tempo,80,70,70,90,100,70,480
+272,https://www.serebii.net/pokedex-bw/273.shtml,Seedot,grass,,Chlorophyll,Early Bird,Pickpocket,40,40,50,30,30,30,220
+273,https://www.serebii.net/pokedex-bw/274.shtml,Nuzleaf,grass,dark,Chlorophyll,Early Bird,Pickpocket,70,70,40,60,40,60,340
+274,https://www.serebii.net/pokedex-bw/275.shtml,Shiftry,grass,dark,Chlorophyll,Early Bird,Pickpocket,90,100,60,90,60,80,480
+275,https://www.serebii.net/pokedex-bw/276.shtml,Taillow,normal,flying,Guts,,Scrappy,40,55,30,30,30,85,270
+276,https://www.serebii.net/pokedex-bw/277.shtml,Swellow,normal,flying,Guts,,Scrappy,60,85,60,50,50,125,430
+277,https://www.serebii.net/pokedex-bw/278.shtml,Wingull,water,flying,Keen Eye,,Rain Dish,40,30,30,55,30,85,270
+278,https://www.serebii.net/pokedex-bw/279.shtml,Pelipper,water,flying,Keen Eye,,Rain Dish,60,50,100,85,70,65,430
+279,https://www.serebii.net/pokedex-bw/280.shtml,Ralts,psychic,,Synchronize,Trace,Telepathy,28,25,25,45,35,40,198
+280,https://www.serebii.net/pokedex-bw/281.shtml,Kirlia,psychic,,Synchronize,Trace,Telepathy,38,35,35,65,55,50,278
+281,https://www.serebii.net/pokedex-bw/282.shtml,Gardevoir,psychic,,Synchronize,Trace,Telepathy,68,65,65,125,115,80,518
+282,https://www.serebii.net/pokedex-bw/283.shtml,Surskit,bug,water,Swift Swim,,Rain Dish,40,30,32,50,52,65,269
+283,https://www.serebii.net/pokedex-bw/284.shtml,Masquerain,bug,flying,Intimidate,,Unnerve,70,60,62,80,82,60,414
+284,https://www.serebii.net/pokedex-bw/285.shtml,Shroomish,grass,,Effect Spore,Poison Heal,Quick Feet,60,40,60,40,60,35,295
+285,https://www.serebii.net/pokedex-bw/286.shtml,Breloom,grass,fighting,Effect Spore,Poison Heal,Technician,60,130,80,60,60,70,460
+286,https://www.serebii.net/pokedex-bw/287.shtml,Slakoth,normal,,Truant,,,60,60,60,35,35,30,280
+287,https://www.serebii.net/pokedex-bw/288.shtml,Vigoroth,normal,,Vital Spirit,,,80,80,80,55,55,90,440
+288,https://www.serebii.net/pokedex-bw/289.shtml,Slaking,normal,,Truant,,,150,160,100,95,65,100,670
+289,https://www.serebii.net/pokedex-bw/290.shtml,Nincada,bug,ground,Compoundeyes,,Run Away,31,45,90,30,30,40,266
+290,https://www.serebii.net/pokedex-bw/291.shtml,Ninjask,bug,flying,Speed Boost,,Infiltrator,61,90,45,50,50,160,456
+291,https://www.serebii.net/pokedex-bw/292.shtml,Shedinja,bug,ghost,Wonder Guard,,,1,90,45,30,30,40,236
+292,https://www.serebii.net/pokedex-bw/293.shtml,Whismur,normal,,Soundproof,,Rattled,64,51,23,51,23,28,240
+293,https://www.serebii.net/pokedex-bw/294.shtml,Loudred,normal,,Soundproof,,Scrappy,84,71,43,71,43,48,360
+294,https://www.serebii.net/pokedex-bw/295.shtml,Exploud,normal,,Soundproof,,Scrappy,104,91,63,91,63,68,480
+295,https://www.serebii.net/pokedex-bw/296.shtml,Makuhita,fighting,,Thick Fat,Guts,Sheer Force,72,60,30,20,30,25,237
+296,https://www.serebii.net/pokedex-bw/297.shtml,Hariyama,fighting,,Thick Fat,Guts,Sheer Force,144,120,60,40,60,50,474
+297,https://www.serebii.net/pokedex-bw/298.shtml,Azurill,normal,,Thick Fat,Huge Power,Sap Sipper,50,20,40,20,40,20,190
+298,https://www.serebii.net/pokedex-bw/299.shtml,Nosepass,rock,,Sturdy,Magnet Pull,Sand Force,30,45,135,45,90,30,375
+299,https://www.serebii.net/pokedex-bw/300.shtml,Skitty,normal,,Cute Charm,Normalize,Wonder Skin ,50,45,45,35,35,50,260
+300,https://www.serebii.net/pokedex-bw/301.shtml,Delcatty,normal,,Cute Charm,Normalize,Wonder Skin ,70,65,65,55,55,70,380
+301,https://www.serebii.net/pokedex-bw/302.shtml,Sableye,dark,ghost,Keen Eye,Stall,Prankster,50,75,75,65,65,50,380
+302,https://www.serebii.net/pokedex-bw/303.shtml,Mawile,steel,,Hyper Cutter,Intimidate,Sheer Force,50,85,85,55,55,50,380
+303,https://www.serebii.net/pokedex-bw/304.shtml,Aron,steel,rock,Sturdy,Rock Head,Heavy Metal,50,70,100,40,40,30,330
+304,https://www.serebii.net/pokedex-bw/305.shtml,Lairon,steel,rock,Sturdy,Rock Head,Heavy Metal,60,90,140,50,50,40,430
+305,https://www.serebii.net/pokedex-bw/306.shtml,Aggron,steel,rock,Sturdy,Rock Head,Heavy Metal,70,110,180,60,60,50,530
+306,https://www.serebii.net/pokedex-bw/307.shtml,Meditite,fighting,psychic,Pure Power,,Telepathy,30,40,55,40,55,60,280
+307,https://www.serebii.net/pokedex-bw/308.shtml,Medicham,fighting,psychic,Pure Power,,Telepathy,60,60,75,60,75,80,410
+308,https://www.serebii.net/pokedex-bw/309.shtml,Electrike,electric,,Static,Lightningrod,Minus,40,45,40,65,40,65,295
+309,https://www.serebii.net/pokedex-bw/310.shtml,Manectric,electric,,Static,Lightningrod,Minus,70,75,60,105,60,105,475
+310,https://www.serebii.net/pokedex-bw/311.shtml,Plusle,electric,,Plus,,,60,50,40,85,75,95,405
+311,https://www.serebii.net/pokedex-bw/312.shtml,Minun,electric,,Minus,,,60,40,50,75,85,95,405
+312,https://www.serebii.net/pokedex-bw/313.shtml,Volbeat,bug,,Illuminate,Swarm,Prankster,65,73,55,47,75,85,400
+313,https://www.serebii.net/pokedex-bw/314.shtml,Illumise,bug,,Oblivious,Tinted Lens,Prankster,65,47,55,73,75,85,400
+314,https://www.serebii.net/pokedex-bw/315.shtml,Roselia,grass,poison,Natural Cure,Poison Point,Leaf Guard,50,60,45,100,80,65,400
+315,https://www.serebii.net/pokedex-bw/316.shtml,Gulpin,poison,,Liquid Ooze,Sticky Hold,Gluttony,70,43,53,43,53,40,302
+316,https://www.serebii.net/pokedex-bw/317.shtml,Swalot,poison,,Liquid Ooze,Sticky Hold,Gluttony,100,73,83,73,83,55,467
+317,https://www.serebii.net/pokedex-bw/318.shtml,Carvanha,water,dark,Rough Skin,,Speed Boost,45,90,20,65,20,65,305
+318,https://www.serebii.net/pokedex-bw/319.shtml,Sharpedo,water,dark,Rough Skin,,Speed Boost,70,120,40,95,40,95,460
+319,https://www.serebii.net/pokedex-bw/320.shtml,Wailmer,water,,Water Veil,Oblivious,Pressure,130,70,35,70,35,60,400
+320,https://www.serebii.net/pokedex-bw/321.shtml,Wailord,water,,Water Veil,Oblivious,Pressure,170,90,45,90,45,60,500
+321,https://www.serebii.net/pokedex-bw/322.shtml,Numel,fire,ground,Oblivious,Simple,Own Tempo,60,60,40,65,45,35,305
+322,https://www.serebii.net/pokedex-bw/323.shtml,Camerupt,fire,ground,Magma Armor,Solid Rock,Anger Point,70,100,70,105,75,40,460
+323,https://www.serebii.net/pokedex-bw/324.shtml,Torkoal,fire,,White Smoke,,Shell Armor,70,85,140,85,70,20,470
+324,https://www.serebii.net/pokedex-bw/325.shtml,Spoink,psychic,,Thick Fat,Own Tempo,Gluttony,60,25,35,70,80,60,330
+325,https://www.serebii.net/pokedex-bw/326.shtml,Grumpig,psychic,,Thick Fat,Own Tempo,Gluttony,80,45,65,90,110,80,470
+326,https://www.serebii.net/pokedex-bw/327.shtml,Spinda,normal,,Own Tempo,Tangled Feet,Contrary,60,60,60,60,60,60,360
+327,https://www.serebii.net/pokedex-bw/328.shtml,Trapinch,ground,,Hyper Cutter,Arena Trap,Sheer Force,45,100,45,45,45,10,290
+328,https://www.serebii.net/pokedex-bw/329.shtml,Vibrava,ground,dragon,Levitate,,,50,70,50,50,50,70,340
+329,https://www.serebii.net/pokedex-bw/330.shtml,Flygon,ground,dragon,Levitate,,,80,100,80,80,80,100,520
+330,https://www.serebii.net/pokedex-bw/331.shtml,Cacnea,grass,,Sand Veil,,Water Absorb,50,85,40,85,40,35,335
+331,https://www.serebii.net/pokedex-bw/332.shtml,Cacturne,grass,dark,Sand Veil,,Water Absorb,70,115,60,115,60,55,475
+332,https://www.serebii.net/pokedex-bw/333.shtml,Swablu,normal,flying,Natural Cure,,Cloud Nine,45,40,60,40,75,50,310
+333,https://www.serebii.net/pokedex-bw/334.shtml,Altaria,dragon,flying,Natural Cure,,Cloud Nine,75,70,90,70,105,80,490
+334,https://www.serebii.net/pokedex-bw/335.shtml,Zangoose,normal,,Immunity,,Toxic Boost,73,115,60,60,60,90,458
+335,https://www.serebii.net/pokedex-bw/336.shtml,Seviper,poison,,Shed Skin,,Infiltrator,73,100,60,100,60,65,458
+336,https://www.serebii.net/pokedex-bw/337.shtml,Lunatone,rock,psychic,Levitate,,,70,55,65,95,85,70,440
+337,https://www.serebii.net/pokedex-bw/338.shtml,Solrock,rock,psychic,Levitate,,,70,95,85,55,65,70,440
+338,https://www.serebii.net/pokedex-bw/339.shtml,Barboach,water,ground,Oblivious,Anticipation,Hydration,50,48,43,46,41,60,288
+339,https://www.serebii.net/pokedex-bw/340.shtml,Whiscash,water,ground,Oblivious,Anticipation,Hydration,110,78,73,76,71,60,468
+340,https://www.serebii.net/pokedex-bw/341.shtml,Corphish,water,,Hyper Cutter,Shell Armor,Adaptability,43,80,65,50,35,35,308
+341,https://www.serebii.net/pokedex-bw/342.shtml,Crawdaunt,water,dark,Hyper Cutter,Shell Armor,Adaptability,63,120,85,90,55,55,468
+342,https://www.serebii.net/pokedex-bw/343.shtml,Baltoy,ground,psychic,Levitate,,,40,40,55,40,70,55,300
+343,https://www.serebii.net/pokedex-bw/344.shtml,Claydol,ground,psychic,Levitate,,,60,70,105,70,120,75,500
+344,https://www.serebii.net/pokedex-bw/345.shtml,Lileep,rock,grass,Suction Cups,,Storm Drain,66,41,77,61,87,23,355
+345,https://www.serebii.net/pokedex-bw/346.shtml,Cradily,rock,grass,Suction Cups,,Storm Drain,86,81,97,81,107,43,495
+346,https://www.serebii.net/pokedex-bw/347.shtml,Anorith,rock,bug,Battle Armor,,Swift Swim,45,95,50,40,50,75,355
+347,https://www.serebii.net/pokedex-bw/348.shtml,Armaldo,rock,bug,Battle Armor,,Swift Swim,75,125,100,70,80,45,495
+348,https://www.serebii.net/pokedex-bw/349.shtml,Feebas,water,,Swift Swim,,Adaptability,20,15,20,10,55,80,200
+349,https://www.serebii.net/pokedex-bw/350.shtml,Milotic,water,,Marvel Scale,,Cute Charm,95,60,79,100,125,81,540
+350,https://www.serebii.net/pokedex-bw/351.shtml,Castform,normal,,Forecast,,,70,70,70,70,70,70,420
+351,https://www.serebii.net/pokedex-bw/352.shtml,Kecleon,normal,,Color Change,,,60,90,70,60,120,40,440
+352,https://www.serebii.net/pokedex-bw/353.shtml,Shuppet,ghost,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295
+353,https://www.serebii.net/pokedex-bw/354.shtml,Banette,ghost,,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455
+354,https://www.serebii.net/pokedex-bw/355.shtml,Duskull,ghost,,Levitate,,,20,40,90,30,90,25,295
+355,https://www.serebii.net/pokedex-bw/356.shtml,Dusclops,ghost,,Pressure,,,40,70,130,60,130,25,455
+356,https://www.serebii.net/pokedex-bw/357.shtml,Tropius,grass,flying,Chlorophyll,Solar Power,Harvest,99,68,83,72,87,51,460
+357,https://www.serebii.net/pokedex-bw/358.shtml,Chimecho,psychic,,Levitate,,,65,50,70,95,80,65,425
+358,https://www.serebii.net/pokedex-bw/359.shtml,Absol,dark,,Pressure,Super Luck,Justified,65,130,60,75,60,75,465
+359,https://www.serebii.net/pokedex-bw/360.shtml,Wynaut,psychic,,Shadow Tag,,Telepathy,95,23,48,23,48,23,260
+360,https://www.serebii.net/pokedex-bw/361.shtml,Snorunt,ice,,Inner Focus,Ice Body,Moody,50,50,50,50,50,50,300
+361,https://www.serebii.net/pokedex-bw/362.shtml,Glalie,ice,,Inner Focus,Ice Body,Moody,80,80,80,80,80,80,480
+362,https://www.serebii.net/pokedex-bw/363.shtml,Spheal,ice,water,Thick Fat,Ice Body,Oblivious,70,40,50,55,50,25,290
+363,https://www.serebii.net/pokedex-bw/364.shtml,Sealeo,ice,water,Thick Fat,Ice Body,Oblivious,90,60,70,75,70,45,410
+364,https://www.serebii.net/pokedex-bw/365.shtml,Walrein,ice,water,Thick Fat,Ice Body,Oblivious,110,80,90,95,90,65,530
+365,https://www.serebii.net/pokedex-bw/366.shtml,Clamperl,water,,Shell Armor,,Rattled,35,64,85,74,55,32,345
+366,https://www.serebii.net/pokedex-bw/367.shtml,Huntail,water,,Swift Swim,,Water Veil,55,104,105,94,75,52,485
+367,https://www.serebii.net/pokedex-bw/368.shtml,Gorebyss,water,,Swift Swim,,Hydration,55,84,105,114,75,52,485
+368,https://www.serebii.net/pokedex-bw/369.shtml,Relicanth,water,rock,Swift Swim,Rock Head,Sturdy,100,90,130,45,65,55,485
+369,https://www.serebii.net/pokedex-bw/370.shtml,Luvdisc,water,,Swift Swim,,Hydration,43,30,55,40,65,97,330
+370,https://www.serebii.net/pokedex-bw/371.shtml,Bagon,dragon,,Rock Head,,Sheer Force,45,75,60,40,30,50,300
+371,https://www.serebii.net/pokedex-bw/372.shtml,Shelgon,dragon,,Rock Head,,Overcoat,65,95,100,60,50,50,420
+372,https://www.serebii.net/pokedex-bw/373.shtml,Salamence,dragon,flying,Intimidate,,Moxie,95,135,80,110,80,100,600
+373,https://www.serebii.net/pokedex-bw/374.shtml,Beldum,steel,psychic,Clear Body,,Light Metal,40,55,80,35,60,30,300
+374,https://www.serebii.net/pokedex-bw/375.shtml,Metang,steel,psychic,Clear Body,,Light Metal,60,75,100,55,80,50,420
+375,https://www.serebii.net/pokedex-bw/376.shtml,Metagross,steel,psychic,Clear Body,,Light Metal,80,135,130,95,90,70,600
+376,https://www.serebii.net/pokedex-bw/377.shtml,Regirock,rock,,Clear Body,,Sturdy,80,100,200,50,100,50,580
+377,https://www.serebii.net/pokedex-bw/378.shtml,Regice,ice,,Clear Body,,Ice Body,80,50,100,100,200,50,580
+378,https://www.serebii.net/pokedex-bw/379.shtml,Registeel,steel,,Clear Body,,Light Metal,80,75,150,75,150,50,580
+379,https://www.serebii.net/pokedex-bw/380.shtml,Latias,dragon,psychic,Levitate,,,80,80,90,110,130,110,600
+380,https://www.serebii.net/pokedex-bw/381.shtml,Latios,dragon,psychic,Levitate,,,80,90,80,130,110,110,600
+381,https://www.serebii.net/pokedex-bw/382.shtml,Kyogre,water,,Drizzle,,,100,100,90,150,140,90,670
+382,https://www.serebii.net/pokedex-bw/383.shtml,Groudon,ground,,Drought,,,100,150,140,100,90,90,670
+383,https://www.serebii.net/pokedex-bw/384.shtml,Rayquaza,dragon,flying,Air Lock,,,105,150,90,150,90,95,680
+384,https://www.serebii.net/pokedex-bw/385.shtml,Jirachi,steel,psychic,Serene Grace,,,100,100,100,100,100,100,600
+385,https://www.serebii.net/pokedex-bw/386.shtml,Deoxys,psychic,,Pressure,,,50,150,50,150,50,150,600
+386,https://www.serebii.net/pokedex-bw/386.shtml,Deoxys-Attack,psychic,,Pressure,,,50,180,20,180,20,150,600
+387,https://www.serebii.net/pokedex-bw/386.shtml,Deoxy-Defense,psychic,,Pressure,,,50,70,160,70,160,90,600
+388,https://www.serebii.net/pokedex-bw/386.shtml,Deoxys-Speed,psychic,,Pressure,,,50,95,90,95,90,180,600
+389,https://www.serebii.net/pokedex-bw/387.shtml,Turtwig,grass,,Overgrow,,Shell Armor,55,68,64,45,55,31,318
+390,https://www.serebii.net/pokedex-bw/388.shtml,Grotle,grass,,Overgrow,,Shell Armor,75,89,85,55,65,36,405
+391,https://www.serebii.net/pokedex-bw/389.shtml,Torterra,grass,ground,Overgrow,,Shell Armor,95,109,105,75,85,56,525
+392,https://www.serebii.net/pokedex-bw/390.shtml,Chimchar,fire,,Blaze,,Iron Fist,44,58,44,58,44,61,309
+393,https://www.serebii.net/pokedex-bw/391.shtml,Monferno,fire,fighting,Blaze,,Iron Fist,64,78,52,78,52,81,405
+394,https://www.serebii.net/pokedex-bw/392.shtml,Infernape,fire,fighting,Blaze,,Iron Fist,76,104,71,104,71,108,534
+395,https://www.serebii.net/pokedex-bw/393.shtml,Piplup,water,,Torrent,,Defiant,53,51,53,61,56,40,314
+396,https://www.serebii.net/pokedex-bw/394.shtml,Prinplup,water,,Torrent,,Defiant,64,66,68,81,76,50,405
+397,https://www.serebii.net/pokedex-bw/395.shtml,Empoleon,water,steel,Torrent,,Defiant,84,86,88,111,101,60,530
+398,https://www.serebii.net/pokedex-bw/396.shtml,Starly,normal,flying,Keen Eye,,,40,55,30,30,30,60,245
+399,https://www.serebii.net/pokedex-bw/397.shtml,Staravia,normal,flying,Intimidate,,Reckless,55,75,50,40,40,80,340
+400,https://www.serebii.net/pokedex-bw/398.shtml,Staraptor,normal,flying,Intimidate,,Reckless,85,120,70,50,50,100,475
+401,https://www.serebii.net/pokedex-bw/399.shtml,Bidoof,normal,,Simple,Unaware,Moody,59,45,40,35,40,31,250
+402,https://www.serebii.net/pokedex-bw/400.shtml,Bibarel,normal,water,Simple,Unaware,Moody,79,85,60,55,60,71,410
+403,https://www.serebii.net/pokedex-bw/401.shtml,Kricketot,bug,,Shed Skin,,Run Away,37,25,41,25,41,25,194
+404,https://www.serebii.net/pokedex-bw/402.shtml,Kricketune,bug,,Swarm,,Technician,77,85,51,55,51,65,384
+405,https://www.serebii.net/pokedex-bw/403.shtml,Shinx,electric,,Rivalry,Intimidate,Guts,45,65,34,40,34,45,263
+406,https://www.serebii.net/pokedex-bw/404.shtml,Luxio,electric,,Rivalry,Intimidate,Guts,60,85,49,60,49,60,363
+407,https://www.serebii.net/pokedex-bw/405.shtml,Luxray,electric,,Rivalry,Intimidate,Guts,80,120,79,95,79,70,523
+408,https://www.serebii.net/pokedex-bw/406.shtml,Budew,grass,poison,Natural Cure,Poison Point,Leaf Guard,40,30,35,50,70,55,280
+409,https://www.serebii.net/pokedex-bw/407.shtml,Roserade,grass,poison,Natural Cure,Poison Point,Technician,60,70,55,125,105,90,505
+410,https://www.serebii.net/pokedex-bw/408.shtml,Cranidos,rock,,Mold Breaker,,Sheer Force,67,125,40,30,30,58,350
+411,https://www.serebii.net/pokedex-bw/409.shtml,Rampardos,rock,,Mold Breaker,,Sheer Force,97,165,60,65,50,58,495
+412,https://www.serebii.net/pokedex-bw/410.shtml,Shieldon,rock,steel,Sturdy,,Soundproof,30,42,118,42,88,30,350
+413,https://www.serebii.net/pokedex-bw/411.shtml,Bastiodon,rock,steel,Sturdy,,Soundproof,60,52,168,47,138,30,495
+414,https://www.serebii.net/pokedex-bw/412.shtml,Burmy,bug,,Shed Skin,,Overcoat,40,29,45,29,45,36,224
+415,https://www.serebii.net/pokedex-bw/413.shtml,Wormadam-Plant,bug,grass,Anticipation,,Overcoat,60,59,85,79,105,36,424
+416,https://www.serebii.net/pokedex-bw/413.shtml,Wormadam-Sandy,bug,ground,Anticipation,,Overcoat,60,79,105,59,85,36,424
+417,https://www.serebii.net/pokedex-bw/413.shtml,Wormadam-Steel,bug,ground,Anticipation,,Overcoat,60,69,95,69,95,36,424
+418,https://www.serebii.net/pokedex-bw/414.shtml,Mothim,bug,flying,Swarm,,Tinted Lens,70,94,50,94,50,66,424
+419,https://www.serebii.net/pokedex-bw/415.shtml,Combee,bug,flying,Honey Gather,,Hustle,30,30,42,30,42,70,244
+420,https://www.serebii.net/pokedex-bw/416.shtml,Vespiquen,bug,flying,Pressure,,Unnerve,70,80,102,80,102,40,474
+421,https://www.serebii.net/pokedex-bw/417.shtml,Pachirisu,electric,,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,405
+422,https://www.serebii.net/pokedex-bw/418.shtml,Buizel,water,,Swift Swim,,Water Veil,55,65,35,60,30,85,330
+423,https://www.serebii.net/pokedex-bw/419.shtml,Floatzel,water,,Swift Swim,,Water Veil,85,105,55,85,50,115,495
+424,https://www.serebii.net/pokedex-bw/420.shtml,Cherubi,grass,,Chlorophyll,,,45,35,45,62,53,35,275
+425,https://www.serebii.net/pokedex-bw/421.shtml,Cherrim,grass,,Flower Gift,,,70,60,70,87,78,85,450
+426,https://www.serebii.net/pokedex-bw/422.shtml,Shellos,water,,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,325
+427,https://www.serebii.net/pokedex-bw/423.shtml,Gastrodon,water,ground,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,475
+428,https://www.serebii.net/pokedex-bw/424.shtml,Ambipom,normal,,Technician,Pickup,Skill Link,75,100,66,60,66,115,482
+429,https://www.serebii.net/pokedex-bw/425.shtml,Drifloon,ghost,flying,Aftermath,Unburden,Flare Boost,90,50,34,60,44,70,348
+430,https://www.serebii.net/pokedex-bw/426.shtml,Drifblim,ghost,flying,Aftermath,Unburden,Flare Boost,150,80,44,90,54,80,498
+431,https://www.serebii.net/pokedex-bw/427.shtml,Buneary,normal,,Run Away,Klutz,Limber,55,66,44,44,56,85,350
+432,https://www.serebii.net/pokedex-bw/428.shtml,Lopunny,normal,,Cute Charm,Klutz,Limber,65,76,84,54,96,105,480
+433,https://www.serebii.net/pokedex-bw/429.shtml,Mismagius,ghost,,Levitate,,,60,60,60,105,105,105,495
+434,https://www.serebii.net/pokedex-bw/430.shtml,Honchkrow,dark,flying,Insomnia,Super Luck,Moxie,100,125,52,105,52,71,505
+435,https://www.serebii.net/pokedex-bw/431.shtml,Glameow,normal,,Limber,Own Tempo,Keen Eye,49,55,42,42,37,85,310
+436,https://www.serebii.net/pokedex-bw/432.shtml,Purugly,normal,,Thick Fat,Own Tempo,Defiant,71,82,64,64,59,112,452
+437,https://www.serebii.net/pokedex-bw/433.shtml,Chingling,psychic,,Levitate,,,45,30,50,65,50,45,285
+438,https://www.serebii.net/pokedex-bw/434.shtml,Stunky,poison,dark,Stench,Aftermath,Keen Eye,63,63,47,41,41,74,329
+439,https://www.serebii.net/pokedex-bw/435.shtml,Skuntank,poison,dark,Stench,Aftermath,Keen Eye,103,93,67,71,61,84,479
+440,https://www.serebii.net/pokedex-bw/436.shtml,Bronzor,steel,psychic,Levitate,Heatproof,Heavy Metal,57,24,86,24,86,23,300
+441,https://www.serebii.net/pokedex-bw/437.shtml,Bronzong,steel,psychic,Levitate,Heatproof,Heavy Metal,67,89,116,79,116,33,500
+442,https://www.serebii.net/pokedex-bw/438.shtml,Bonsly,rock,,Sturdy,Rock Head,Rattled,50,80,95,10,45,10,290
+443,https://www.serebii.net/pokedex-bw/439.shtml,Mime Jr.,psychic,,Soundproof,Filter,Technician,20,25,45,70,90,60,310
+444,https://www.serebii.net/pokedex-bw/440.shtml,Happiny,normal,,Natural Cure,Serene Grace,Friend Guard,100,5,5,15,65,30,220
+445,https://www.serebii.net/pokedex-bw/441.shtml,Chatot,normal,flying,Keen Eye,Tangled Feet,Big Pecks,76,65,45,92,42,91,411
+446,https://www.serebii.net/pokedex-bw/442.shtml,Spiritomb,ghost,dark,Pressure,,Infiltrator,50,92,108,92,108,35,485
+447,https://www.serebii.net/pokedex-bw/443.shtml,Gible,dragon,ground,Sand Veil,,Rough Skin,58,70,45,40,45,42,300
+448,https://www.serebii.net/pokedex-bw/444.shtml,Gabite,dragon,ground,Sand Veil,,Rough Skin,68,90,65,50,55,82,410
+449,https://www.serebii.net/pokedex-bw/445.shtml,Garchomp,dragon,ground,Sand Veil,,Rough Skin,108,130,95,80,85,102,600
+450,https://www.serebii.net/pokedex-bw/446.shtml,Munchlax,normal,,Pickup,Thick Fat,Gluttony,135,85,40,40,85,5,390
+451,https://www.serebii.net/pokedex-bw/447.shtml,Riolu,fighting,,Steadfast,Inner Focus,Prankster,40,70,40,35,40,60,285
+452,https://www.serebii.net/pokedex-bw/448.shtml,Lucario,fighting,steel,Steadfast,Inner Focus,Justified,70,110,70,115,70,90,525
+453,https://www.serebii.net/pokedex-bw/449.shtml,Hippopotas,ground,,Sand Stream,,Sand Force,68,72,78,38,42,32,330
+454,https://www.serebii.net/pokedex-bw/450.shtml,Hippowdon,ground,,Sand Stream,,Sand Force,108,112,118,68,72,47,525
+455,https://www.serebii.net/pokedex-bw/451.shtml,Skorupi,poison,bug,Battle Armor,Sniper,Keen Eye,40,50,90,30,55,65,330
+456,https://www.serebii.net/pokedex-bw/452.shtml,Drapion,poison,dark,Battle Armor,Sniper,Keen Eye,70,90,110,60,75,95,500
+457,https://www.serebii.net/pokedex-bw/453.shtml,Croagunk,poison,fighting,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,300
+458,https://www.serebii.net/pokedex-bw/454.shtml,Toxicroak,poison,fighting,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,490
+459,https://www.serebii.net/pokedex-bw/455.shtml,Carnivine,grass,,Levitate,,,74,100,72,90,72,46,454
+460,https://www.serebii.net/pokedex-bw/456.shtml,Finneon,water,,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,330
+461,https://www.serebii.net/pokedex-bw/457.shtml,Lumineon,water,,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,460
+462,https://www.serebii.net/pokedex-bw/458.shtml,Mantyke,water,flying,Swift Swim,Water Absorb,Water Veil,45,20,50,60,120,50,345
+463,https://www.serebii.net/pokedex-bw/459.shtml,Snover,grass,ice,Snow Warning,,Soundproof,60,62,50,62,60,40,334
+464,https://www.serebii.net/pokedex-bw/460.shtml,Abomasnow,grass,ice,Snow Warning,,Soundproof,90,92,75,92,85,60,494
+465,https://www.serebii.net/pokedex-bw/461.shtml,Weavile,dark,ice,Pressure,,Pickpocket,70,120,65,45,85,125,510
+466,https://www.serebii.net/pokedex-bw/462.shtml,Magnezone,electric,steel,Magnet Pull,Sturdy,Analytic,70,70,115,130,90,60,535
+467,https://www.serebii.net/pokedex-bw/463.shtml,Lickilicky,normal,,Own Tempo,Oblivious,Cloud Nine,110,85,95,80,95,50,515
+468,https://www.serebii.net/pokedex-bw/464.shtml,Rhyperior,ground,rock,Lightningrod,Solid Rock,Reckless,115,140,130,55,55,40,535
+469,https://www.serebii.net/pokedex-bw/465.shtml,Tangrowth,grass,,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,535
+470,https://www.serebii.net/pokedex-bw/466.shtml,Electivire,electric,,Motor Drive,,Vital Spirit,75,123,67,95,85,95,540
+471,https://www.serebii.net/pokedex-bw/467.shtml,Magmortar,fire,,Flame Body,,Vital Spirit,75,95,67,125,95,83,540
+472,https://www.serebii.net/pokedex-bw/468.shtml,Togekiss,normal,flying,Hustle,Serene Grace,Super Luck,85,50,95,120,115,80,545
+473,https://www.serebii.net/pokedex-bw/469.shtml,Yanmega,bug,flying,Speed Boost,Tinted Lens,Frisk,86,76,86,116,56,95,515
+474,https://www.serebii.net/pokedex-bw/470.shtml,Leafeon,grass,,Leaf Guard,,Chlorophyll,65,110,130,60,65,95,525
+475,https://www.serebii.net/pokedex-bw/471.shtml,Glaceon,ice,,Snow Cloak,,Ice Body,65,60,110,130,95,65,525
+476,https://www.serebii.net/pokedex-bw/472.shtml,Gliscor,ground,flying,Hyper Cutter,Sand Veil,Poison Heal,75,95,125,45,75,95,510
+477,https://www.serebii.net/pokedex-bw/473.shtml,Mamoswine,ice,ground,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,530
+478,https://www.serebii.net/pokedex-bw/474.shtml,Porygon-Z,normal,,Adaptability,Download,Analytic,85,80,70,135,75,90,535
+479,https://www.serebii.net/pokedex-bw/475.shtml,Gallade,psychic,fighting,Steadfast,,Justified,68,125,65,65,115,80,518
+480,https://www.serebii.net/pokedex-bw/476.shtml,Probopass,rock,steel,Sturdy,Magnet Pull,Sand Force,60,55,145,75,150,40,525
+481,https://www.serebii.net/pokedex-bw/477.shtml,Dusknoir,ghost,,Pressure,,,45,100,135,65,135,45,525
+482,https://www.serebii.net/pokedex-bw/478.shtml,Froslass,ice,ghost,Snow Cloak,,Cursed Body,70,80,70,80,70,110,480
+483,https://www.serebii.net/pokedex-bw/479.shtml,Rotom,electric,ghost,Levitate,,,50,50,77,95,77,91,440
+484,https://www.serebii.net/pokedex-bw/479.shtml,Rotom-Heat,electric,fire,Levitate,,,50,65,107,105,107,86,520
+485,https://www.serebii.net/pokedex-bw/479.shtml,Rotom-Wash,electric,water,Levitate,,,50,65,107,105,107,86,520
+486,https://www.serebii.net/pokedex-bw/479.shtml,Rotom-Frost,electric,ice,Levitate,,,50,65,107,105,107,86,520
+487,https://www.serebii.net/pokedex-bw/479.shtml,Rotom-Fan,electric,flying,Levitate,,,50,65,107,105,107,86,520
+488,https://www.serebii.net/pokedex-bw/479.shtml,Rotom-Mow,electric,grass,Levitate,,,50,65,107,105,107,86,520
+489,https://www.serebii.net/pokedex-bw/480.shtml,Uxie,psychic,,Levitate,,,75,75,130,75,130,95,580
+490,https://www.serebii.net/pokedex-bw/481.shtml,Mesprit,psychic,,Levitate,,,80,105,105,105,105,80,580
+491,https://www.serebii.net/pokedex-bw/482.shtml,Azelf,psychic,,Levitate,,,75,125,70,125,70,115,580
+492,https://www.serebii.net/pokedex-bw/483.shtml,Dialga,steel,dragon,Pressure,,Telepathy,100,120,120,150,100,90,680
+493,https://www.serebii.net/pokedex-bw/484.shtml,Palkia,water,dragon,Pressure,,Telepathy,90,120,100,150,120,100,680
+494,https://www.serebii.net/pokedex-bw/485.shtml,Heatran,fire,steel,Flash Fire,,Flame Body,91,90,106,130,106,77,600
+495,https://www.serebii.net/pokedex-bw/486.shtml,Regigigas,normal,,Slow Start,,,110,160,110,80,110,100,670
+496,https://www.serebii.net/pokedex-bw/487.shtml,Giratina,ghost,dragon,Pressure,,Telepathy,150,100,120,100,120,90,680
+497,https://www.serebii.net/pokedex-bw/487.shtml,Giratina-Origin,ghost,dragon,Levitate,,,150,120,100,120,100,90,680
+498,https://www.serebii.net/pokedex-bw/488.shtml,Cresselia,psychic,,Levitate,,,120,70,120,75,130,85,600
+499,https://www.serebii.net/pokedex-bw/489.shtml,Phione,water,,Hydration,,,80,80,80,80,80,80,480
+500,https://www.serebii.net/pokedex-bw/490.shtml,Manaphy,water,,Hydration,,,100,100,100,100,100,100,600
+501,https://www.serebii.net/pokedex-bw/491.shtml,Darkrai,dark,,Bad Dreams,,,70,90,90,135,90,125,600
+502,https://www.serebii.net/pokedex-bw/492.shtml,Shaymin,grass,,Natural Cure,,,100,100,100,100,100,100,600
+503,https://www.serebii.net/pokedex-bw/492.shtml,Shaymin-Sky,grass,flying,Serene Grace,,,100,103,75,120,75,127,600
+504,https://www.serebii.net/pokedex-bw/493.shtml,Arceus,normal,,Multitype,,,120,120,120,120,120,120,720
+505,https://www.serebii.net/pokedex-bw/494.shtml,Victini,psychic,fire,Victory Star,,,100,100,100,100,100,100,600
+506,https://www.serebii.net/pokedex-bw/495.shtml,Snivy,grass,,Overgrow,,Contrary,45,45,55,45,55,63,308
+507,https://www.serebii.net/pokedex-bw/496.shtml,Servine,grass,,Overgrow,,Contrary,60,60,75,60,75,83,413
+508,https://www.serebii.net/pokedex-bw/497.shtml,Serperior,grass,,Overgrow,,Contrary,75,75,95,75,95,113,528
+509,https://www.serebii.net/pokedex-bw/498.shtml,Tepig,fire,,Blaze,,Thick Fat,65,63,45,45,45,45,308
+510,https://www.serebii.net/pokedex-bw/499.shtml,Pignite,fire,fighting,Blaze,,Thick Fat,90,93,55,70,55,55,418
+511,https://www.serebii.net/pokedex-bw/500.shtml,Emboar,fire,fighting,Blaze,,Reckless,110,123,65,100,65,65,528
+512,https://www.serebii.net/pokedex-bw/501.shtml,Oshawott,water,,Torrent,,Shell Armor,55,55,45,63,45,45,308
+513,https://www.serebii.net/pokedex-bw/502.shtml,Dewott,water,,Torrent,,Shell Armor,75,75,60,83,60,60,413
+514,https://www.serebii.net/pokedex-bw/503.shtml,Samurott,water,,Torrent,,Shell Armor,95,100,85,108,70,70,528
+515,https://www.serebii.net/pokedex-bw/504.shtml,Patrat,normal,,Run Away,Keen Eye,Analytic,45,55,39,35,39,42,255
+516,https://www.serebii.net/pokedex-bw/505.shtml,Watchog,normal,,Illuminate,Keen Eye,Analytic,60,85,69,60,69,77,420
+517,https://www.serebii.net/pokedex-bw/506.shtml,Lillipup,normal,,Vital Spirit,Pickup,Run Away,45,60,45,25,45,55,275
+518,https://www.serebii.net/pokedex-bw/507.shtml,Herdier,normal,,Intimidate,Sand Rush,Scrappy,65,80,65,35,65,60,370
+519,https://www.serebii.net/pokedex-bw/508.shtml,Stoutland,normal,,Intimidate,Sand Rush,Scrappy,85,100,90,45,90,80,490
+520,https://www.serebii.net/pokedex-bw/509.shtml,Purrloin,dark,,Limber,Unburden,Prankster,41,50,37,50,37,66,281
+521,https://www.serebii.net/pokedex-bw/510.shtml,Liepard,dark,,Limber,Unburden,Prankster,64,88,50,88,50,106,446
+522,https://www.serebii.net/pokedex-bw/511.shtml,Pansage,grass,,Gluttony,,Overgrow,50,53,48,53,48,64,316
+523,https://www.serebii.net/pokedex-bw/512.shtml,Simisage,grass,,Gluttony,,Overgrow,75,98,63,98,63,101,498
+524,https://www.serebii.net/pokedex-bw/513.shtml,Pansear,fire,,Gluttony,,Blaze,50,53,48,53,48,64,316
+525,https://www.serebii.net/pokedex-bw/514.shtml,Simisear,fire,,Gluttony,,Blaze,75,98,63,98,63,101,498
+526,https://www.serebii.net/pokedex-bw/515.shtml,Panpour,water,,Gluttony,,Torrent,50,53,48,53,48,64,316
+527,https://www.serebii.net/pokedex-bw/516.shtml,Simipour,water,,Gluttony,,Torrent,75,98,63,98,63,101,498
+528,https://www.serebii.net/pokedex-bw/517.shtml,Munna,psychic,,Forewarn,Synchronize,Telepathy,76,25,45,67,55,24,292
+529,https://www.serebii.net/pokedex-bw/518.shtml,Musharna,psychic,,Forewarn,Synchronize,Telepathy,116,55,85,107,95,29,487
+530,https://www.serebii.net/pokedex-bw/519.shtml,Pidove,normal,flying,Big Pecks,Super Luck,Rivalry,50,55,50,36,30,43,264
+531,https://www.serebii.net/pokedex-bw/520.shtml,Tranquill,normal,flying,Big Pecks,Super Luck,Rivalry,62,77,62,50,42,65,358
+532,https://www.serebii.net/pokedex-bw/521.shtml,Unfezant,normal,flying,Big Pecks,Super Luck,Rivalry,80,105,80,65,55,93,478
+533,https://www.serebii.net/pokedex-bw/522.shtml,Blitzle,electric,,Lightningrod,Motor Drive,Sap Sipper,45,60,32,50,32,76,295
+534,https://www.serebii.net/pokedex-bw/523.shtml,Zebstrika,electric,,Lightningrod,Motor Drive,Sap Sipper,75,100,63,80,63,116,497
+535,https://www.serebii.net/pokedex-bw/524.shtml,Roggenrola,rock,,Sturdy,,Sand Force,55,75,85,25,25,15,280
+536,https://www.serebii.net/pokedex-bw/525.shtml,Boldore,rock,,Sturdy,,Sand Force,70,105,105,50,40,20,390
+537,https://www.serebii.net/pokedex-bw/526.shtml,Gigalith,rock,,Sturdy,,Sand Force,85,135,130,60,70,25,505
+538,https://www.serebii.net/pokedex-bw/527.shtml,Woobat,psychic,flying,Unaware,Klutz,Simple,55,45,43,55,43,72,313
+539,https://www.serebii.net/pokedex-bw/528.shtml,Swoobat,psychic,flying,Unaware,Klutz,Simple,67,57,55,77,55,114,425
+540,https://www.serebii.net/pokedex-bw/529.shtml,Drilbur,ground,,Sand Rush,Sand Force,Mold Breaker,60,85,40,30,45,68,328
+541,https://www.serebii.net/pokedex-bw/530.shtml,Excadrill,ground,steel,Sand Rush,Sand Force,Mold Breaker,110,135,60,50,65,88,508
+542,https://www.serebii.net/pokedex-bw/531.shtml,Audino,normal,,Healer,Regenerator,Klutz,103,60,86,60,86,50,445
+543,https://www.serebii.net/pokedex-bw/532.shtml,Timburr,fighting,,Guts,Sheer Force,Iron Fist,75,80,55,25,35,35,305
+544,https://www.serebii.net/pokedex-bw/533.shtml,Gurdurr,fighting,,Guts,Sheer Force,Iron Fist,85,105,85,40,50,40,405
+545,https://www.serebii.net/pokedex-bw/534.shtml,Conkeldurr,fighting,,Guts,Sheer Force,Iron Fist,105,140,95,55,65,45,505
+546,https://www.serebii.net/pokedex-bw/535.shtml,Tympole,water,,Swift Swim,Hydration,Water Absorb,50,50,40,50,40,64,294
+547,https://www.serebii.net/pokedex-bw/536.shtml,Palpitoad,water,ground,Swift Swim,Hydration,Water Absorb,75,65,55,65,55,69,384
+548,https://www.serebii.net/pokedex-bw/537.shtml,Seismitoad,water,ground,Swift Swim,Poison Touch,Water Absorb,105,85,75,85,75,74,499
+549,https://www.serebii.net/pokedex-bw/538.shtml,Throh,fighting,,Guts,Inner Focus,Mold Breaker,120,100,85,30,85,45,465
+550,https://www.serebii.net/pokedex-bw/539.shtml,Sawk,fighting,,Sturdy,Inner Focus,Mold Breaker,75,125,75,30,75,85,465
+551,https://www.serebii.net/pokedex-bw/540.shtml,Sewaddle,bug,grass,Swarm,Chlorophyll,Overcoat,45,53,70,40,60,42,310
+552,https://www.serebii.net/pokedex-bw/541.shtml,Swadloon,bug,grass,Leaf Guard,Chlorophyll,Overcoat,55,63,90,50,80,42,380
+553,https://www.serebii.net/pokedex-bw/542.shtml,Leavanny,bug,grass,Swarm,Chlorophyll,Overcoat,75,103,80,70,70,92,490
+554,https://www.serebii.net/pokedex-bw/543.shtml,Venipede,bug,poison,Poison Point,Swarm,Quick Feet,30,45,59,30,39,57,260
+555,https://www.serebii.net/pokedex-bw/544.shtml,Whirlipede,bug,poison,Poison Point,Swarm,Quick Feet,40,55,99,40,79,47,360
+556,https://www.serebii.net/pokedex-bw/545.shtml,Scolipede,bug,poison,Poison Point,Swarm,Quick Feet,60,90,89,55,69,112,475
+557,https://www.serebii.net/pokedex-bw/546.shtml,Cottonee,grass,,Prankster,Infiltrator,Chlorophyll,40,27,60,37,50,66,280
+558,https://www.serebii.net/pokedex-bw/547.shtml,Whimsicott,grass,,Prankster,Infiltrator,Chlorophyll,60,67,85,77,75,116,480
+559,https://www.serebii.net/pokedex-bw/548.shtml,Petilil,grass,,Chlorophyll,Own Tempo,Leaf Guard,45,35,50,70,50,30,280
+560,https://www.serebii.net/pokedex-bw/549.shtml,Lilligant,grass,,Chlorophyll,Own Tempo,Leaf Guard,70,60,75,110,75,90,480
+561,https://www.serebii.net/pokedex-bw/550.shtml,Basculin,water,,Reckless,,Mold Breaker,70,92,65,80,55,98,460
+562,https://www.serebii.net/pokedex-bw/551.shtml,Sandile,ground,dark,Intimidate,Moxie,Anger Point,50,72,35,35,35,65,292
+563,https://www.serebii.net/pokedex-bw/552.shtml,Krokorok,ground,dark,Intimidate,Moxie,Anger Point,60,82,45,45,45,74,351
+564,https://www.serebii.net/pokedex-bw/553.shtml,Krookodile,ground,dark,Intimidate,Moxie,Anger Point,95,117,70,65,70,92,509
+565,https://www.serebii.net/pokedex-bw/554.shtml,Darumaka,fire,,Hustle,,Inner Focus,70,90,45,15,45,50,315
+566,https://www.serebii.net/pokedex-bw/555.shtml,Darmanitan,fire,,Sheer Force,,Zen Mode,105,140,55,30,55,95,480
+567,https://www.serebii.net/pokedex-bw/555.shtml,Darmanitan-Zen,fire,psychic,Zen Mode,,,105,30,105,140,105,55,540
+568,https://www.serebii.net/pokedex-bw/556.shtml,Maractus,grass,,Water Absorb,Chlorophyll,Storm Drain,75,86,67,106,67,60,461
+569,https://www.serebii.net/pokedex-bw/557.shtml,Dwebble,bug,rock,Sturdy,Shell Armor,Weak Armor,50,65,85,35,35,55,325
+570,https://www.serebii.net/pokedex-bw/558.shtml,Crustle,bug,rock,Sturdy,Shell Armor,Weak Armor,70,95,125,65,75,45,475
+571,https://www.serebii.net/pokedex-bw/559.shtml,Scraggy,dark,fighting,Shed Skin,Moxie,Intimidate,50,75,70,35,70,48,348
+572,https://www.serebii.net/pokedex-bw/560.shtml,Scrafty,dark,fighting,Shed Skin,Moxie,Intimidate,65,90,115,45,115,58,488
+573,https://www.serebii.net/pokedex-bw/561.shtml,Sigilyph,psychic,flying,Wonder Skin ,Magic Guard,Tinted Lens,72,58,80,103,80,97,490
+574,https://www.serebii.net/pokedex-bw/562.shtml,Yamask,ghost,,Mummy,,,38,30,85,55,65,30,303
+575,https://www.serebii.net/pokedex-bw/563.shtml,Cofagrigus,ghost,,Mummy,,,58,50,145,95,105,30,483
+576,https://www.serebii.net/pokedex-bw/564.shtml,Tirtouga,water,rock,Solid Rock,Sturdy,Swift Swim,54,78,103,53,45,22,355
+577,https://www.serebii.net/pokedex-bw/565.shtml,Carracosta,water,rock,Solid Rock,Sturdy,Swift Swim,74,108,133,83,65,32,495
+578,https://www.serebii.net/pokedex-bw/566.shtml,Archen,rock,flying,Defeatist,,,55,112,45,74,45,70,401
+579,https://www.serebii.net/pokedex-bw/567.shtml,Archeops,rock,flying,Defeatist,,,75,140,65,112,65,110,567
+580,https://www.serebii.net/pokedex-bw/568.shtml,Trubbish,poison,,Stench,Sticky Hold,Aftermath,50,50,62,40,62,65,329
+581,https://www.serebii.net/pokedex-bw/569.shtml,Garbodor,poison,,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474
+582,https://www.serebii.net/pokedex-bw/570.shtml,Zorua,dark,,Illusion,,,40,65,40,80,40,65,330
+583,https://www.serebii.net/pokedex-bw/571.shtml,Zoroark,dark,,Illusion,,,60,105,60,120,60,105,510
+584,https://www.serebii.net/pokedex-bw/572.shtml,Minccino,normal,,Cute Charm,Technician,Skill Link,55,50,40,40,40,75,300
+585,https://www.serebii.net/pokedex-bw/573.shtml,Cinccino,normal,,Cute Charm,Technician,Skill Link,75,95,60,65,60,115,470
+586,https://www.serebii.net/pokedex-bw/574.shtml,Gothita,psychic,,Frisk,,Shadow Tag,45,30,50,55,65,45,290
+587,https://www.serebii.net/pokedex-bw/575.shtml,Gothorita,psychic,,Frisk,,Shadow Tag,60,45,70,75,85,55,390
+588,https://www.serebii.net/pokedex-bw/576.shtml,Gothitelle,psychic,,Frisk,,Shadow Tag,70,55,95,95,110,65,490
+589,https://www.serebii.net/pokedex-bw/577.shtml,Solosis,psychic,,Overcoat,Magic Guard,Regenerator,45,30,40,105,50,20,290
+590,https://www.serebii.net/pokedex-bw/578.shtml,Duosion,psychic,,Overcoat,Magic Guard,Regenerator,65,40,50,125,60,30,370
+591,https://www.serebii.net/pokedex-bw/579.shtml,Reuniclus,psychic,,Overcoat,Magic Guard,Regenerator,110,65,75,125,85,30,490
+592,https://www.serebii.net/pokedex-bw/580.shtml,Ducklett,water,flying,Keen Eye,Big Pecks,Hydration,62,44,50,44,50,55,305
+593,https://www.serebii.net/pokedex-bw/581.shtml,Swanna,water,flying,Keen Eye,Big Pecks,Hydration,75,87,63,87,63,98,473
+594,https://www.serebii.net/pokedex-bw/582.shtml,Vanillite,ice,,Ice Body,,Weak Armor,36,50,50,65,60,44,305
+595,https://www.serebii.net/pokedex-bw/583.shtml,Vanillish,ice,,Ice Body,,Weak Armor,51,65,65,80,75,59,395
+596,https://www.serebii.net/pokedex-bw/584.shtml,Vanilluxe,ice,,Ice Body,,Weak Armor,71,95,85,110,95,79,535
+597,https://www.serebii.net/pokedex-bw/585.shtml,Deerling,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335
+598,https://www.serebii.net/pokedex-bw/586.shtml,Sawsbuck,normal,grass,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475
+599,https://www.serebii.net/pokedex-bw/587.shtml,Emolga,electric,flying,Static,,Motor Drive,55,75,60,75,60,103,428
+600,https://www.serebii.net/pokedex-bw/588.shtml,Karrablast,bug,,Swarm,Shed Skin,No Guard,50,75,45,40,45,60,315
+601,https://www.serebii.net/pokedex-bw/589.shtml,Escavalier,bug,steel,Swarm,Shell Armor,Overcoat,70,135,105,60,105,20,495
+602,https://www.serebii.net/pokedex-bw/590.shtml,Foongus,grass,poison,Effect Spore,,Regenerator,69,55,45,55,55,15,294
+603,https://www.serebii.net/pokedex-bw/591.shtml,Amoonguss,grass,poison,Effect Spore,,Regenerator,114,85,70,85,80,30,464
+604,https://www.serebii.net/pokedex-bw/592.shtml,Frillish,water,ghost,Water Absorb,Cursed Body,Damp,55,40,50,65,85,40,335
+605,https://www.serebii.net/pokedex-bw/593.shtml,Jellicent,water,ghost,Water Absorb,Cursed Body,Damp,100,60,70,85,105,60,480
+606,https://www.serebii.net/pokedex-bw/594.shtml,Alomomola,water,,Healer,Hydration,Regenerator,165,75,80,40,45,65,470
+607,https://www.serebii.net/pokedex-bw/595.shtml,Joltik,bug,electric,Compoundeyes,Unnerve,Swarm,50,47,50,57,50,65,319
+608,https://www.serebii.net/pokedex-bw/596.shtml,Galvantula,bug,electric,Compoundeyes,Unnerve,Swarm,70,77,60,97,60,108,472
+609,https://www.serebii.net/pokedex-bw/597.shtml,Ferroseed,grass,steel,Iron Barbs,,,44,50,91,24,86,10,305
+610,https://www.serebii.net/pokedex-bw/598.shtml,Ferrothorn,grass,steel,Iron Barbs,,,74,94,131,54,116,20,489
+611,https://www.serebii.net/pokedex-bw/599.shtml,Klink,steel,,Plus,Minus,Clear Body,40,55,70,45,60,30,300
+612,https://www.serebii.net/pokedex-bw/600.shtml,Klang,steel,,Plus,Minus,Clear Body,60,80,95,70,85,50,440
+613,https://www.serebii.net/pokedex-bw/601.shtml,Klinklang,steel,,Plus,Minus,Clear Body,60,100,115,70,85,90,520
+614,https://www.serebii.net/pokedex-bw/602.shtml,Tynamo,electric,,Levitate,,,35,55,40,45,40,60,275
+615,https://www.serebii.net/pokedex-bw/603.shtml,Eelektrik,electric,,Levitate,,,65,85,70,75,70,40,405
+616,https://www.serebii.net/pokedex-bw/604.shtml,Eelektross,electric,,Levitate,,,85,115,80,105,80,50,515
+617,https://www.serebii.net/pokedex-bw/605.shtml,Elgyem,psychic,,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335
+618,https://www.serebii.net/pokedex-bw/606.shtml,Beheeyem,psychic,,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485
+619,https://www.serebii.net/pokedex-bw/607.shtml,Litwick,ghost,fire,Flash Fire,Flame Body,Shadow Tag,50,30,55,65,55,20,275
+620,https://www.serebii.net/pokedex-bw/608.shtml,Lampent,ghost,fire,Flash Fire,Flame Body,Shadow Tag,60,40,60,95,60,55,370
+621,https://www.serebii.net/pokedex-bw/609.shtml,Chandelure,ghost,fire,Flash Fire,Flame Body,Shadow Tag,60,55,90,145,90,80,520
+622,https://www.serebii.net/pokedex-bw/610.shtml,Axew,dragon,,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320
+623,https://www.serebii.net/pokedex-bw/611.shtml,Fraxure,dragon,,Rivalry,Mold Breaker,Unnerve,66,117,70,40,50,67,410
+624,https://www.serebii.net/pokedex-bw/612.shtml,Haxorus,dragon,,Rivalry,Mold Breaker,Unnerve,76,147,90,60,70,97,540
+625,https://www.serebii.net/pokedex-bw/613.shtml,Cubchoo,ice,,Snow Cloak,,Rattled,55,70,40,60,40,40,305
+626,https://www.serebii.net/pokedex-bw/614.shtml,Beartic,ice,,Snow Cloak,,Swift Swim,95,110,80,70,80,50,485
+627,https://www.serebii.net/pokedex-bw/615.shtml,Cryogonal,ice,,Levitate,,,70,50,30,95,135,105,485
+628,https://www.serebii.net/pokedex-bw/616.shtml,Shelmet,bug,,Hydration,Shell Armor,Overcoat,50,40,85,40,65,25,305
+629,https://www.serebii.net/pokedex-bw/617.shtml,Accelgor,bug,,Hydration,Sticky Hold,Unburden,80,70,40,100,60,145,495
+630,https://www.serebii.net/pokedex-bw/618.shtml,Stunfisk,ground,electric,Static,Limber,Sand Veil,109,66,84,81,99,32,471
+631,https://www.serebii.net/pokedex-bw/619.shtml,Mienfoo,fighting,,Inner Focus,Regenerator,Reckless,45,85,50,55,50,65,350
+632,https://www.serebii.net/pokedex-bw/620.shtml,Mienshao,fighting,,Inner Focus,Regenerator,Reckless,65,125,60,95,60,105,510
+633,https://www.serebii.net/pokedex-bw/621.shtml,Druddigon,dragon,,Rough Skin,Sheer Force,Mold Breaker,77,120,90,60,90,48,485
+634,https://www.serebii.net/pokedex-bw/622.shtml,Golett,ground,ghost,Iron Fist,Klutz,No Guard,59,74,50,35,50,35,303
+635,https://www.serebii.net/pokedex-bw/623.shtml,Golurk,ground,ghost,Iron Fist,Klutz,No Guard,89,124,80,55,80,55,483
+636,https://www.serebii.net/pokedex-bw/624.shtml,Pawniard,dark,steel,Defiant,Inner Focus,Pressure,45,85,70,40,40,60,340
+637,https://www.serebii.net/pokedex-bw/625.shtml,Bisharp,dark,steel,Defiant,Inner Focus,Pressure,65,125,100,60,70,70,490
+638,https://www.serebii.net/pokedex-bw/626.shtml,Bouffalant,normal,,Reckless,Sap Sipper,Soundproof,95,110,95,40,95,55,490
+639,https://www.serebii.net/pokedex-bw/627.shtml,Rufflet,normal,flying,Keen Eye,Sheer Force,Hustle,70,83,50,37,50,60,350
+640,https://www.serebii.net/pokedex-bw/628.shtml,Braviary,normal,flying,Keen Eye,Sheer Force,Defiant,100,123,75,57,75,80,510
+641,https://www.serebii.net/pokedex-bw/629.shtml,Vullaby,dark,flying,Big Pecks,Overcoat,Weak Armor,70,55,75,45,65,60,370
+642,https://www.serebii.net/pokedex-bw/630.shtml,Mandibuzz,dark,flying,Big Pecks,Overcoat,Weak Armor,110,65,105,55,95,80,510
+643,https://www.serebii.net/pokedex-bw/631.shtml,Heatmor,fire,,Gluttony,Flash Fire,White Smoke,85,97,66,105,66,65,484
+644,https://www.serebii.net/pokedex-bw/632.shtml,Durant,bug,steel,Swarm,Hustle,Truant,58,109,112,48,48,109,484
+645,https://www.serebii.net/pokedex-bw/633.shtml,Deino,dark,dragon,Hustle,,,52,65,50,45,50,38,300
+646,https://www.serebii.net/pokedex-bw/634.shtml,Zweilous,dark,dragon,Hustle,,,72,85,70,65,70,58,420
+647,https://www.serebii.net/pokedex-bw/635.shtml,Hydreigon,dark,dragon,Levitate,,,92,105,90,125,90,98,600
+648,https://www.serebii.net/pokedex-bw/636.shtml,Larvesta,bug,fire,Flame Body,,Swarm,55,85,55,50,55,60,360
+649,https://www.serebii.net/pokedex-bw/637.shtml,Volcarona,bug,fire,Flame Body,,Swarm,85,60,65,135,105,100,550
+650,https://www.serebii.net/pokedex-bw/638.shtml,Cobalion,steel,fighting,Justified,,,91,90,129,90,72,108,580
+651,https://www.serebii.net/pokedex-bw/639.shtml,Terrakion,rock,fighting,Justified,,,91,129,90,72,90,108,580
+652,https://www.serebii.net/pokedex-bw/640.shtml,Virizion,grass,fighting,Justified,,,91,90,72,90,129,108,580
+653,https://www.serebii.net/pokedex-bw/641.shtml,Tornadus,flying,,Prankster,,Defiant,79,115,70,125,80,111,580
+654,https://www.serebii.net/pokedex-bw/641.shtml,Tornadus-Therian,flying,,Regenerator,,,79,100,80,110,90,121,580
+655,https://www.serebii.net/pokedex-bw/642.shtml,Thundurus,electric,flying,Prankster,,Defiant,79,115,70,125,80,111,580
+656,https://www.serebii.net/pokedex-bw/642.shtml,Thundurus-Therian,electric,flying,Volt Absorb,,,79,105,70,145,80,101,580
+657,https://www.serebii.net/pokedex-bw/643.shtml,Reshiram,dragon,fire,Turboblaze,,,100,120,100,150,120,90,680
+658,https://www.serebii.net/pokedex-bw/644.shtml,Zekrom,dragon,electric,Teravolt,,,100,150,120,120,100,90,680
+659,https://www.serebii.net/pokedex-bw/645.shtml,Landorus,ground,flying,Sand Force,,Sheer Force,89,125,90,115,80,101,680
+660,https://www.serebii.net/pokedex-bw/645.shtml,Landorus-Therian,ground,flying,Intimidate,,,89,145,90,105,80,91,600
+661,https://www.serebii.net/pokedex-bw/646.shtml,Kyurem,dragon,ice,Pressure,,,125,130,90,130,90,95,660
+662,https://www.serebii.net/pokedex-bw/646.shtml,Kyurem-White,dragon,ice,Turboblaze,,,125,120,90,170,100,95,700
+663,https://www.serebii.net/pokedex-bw/646.shtml,Kyurem-Black,dragon,ice,Teravolt,,,125,170,100,120,90,95,700
+664,https://www.serebii.net/pokedex-bw/647.shtml,Keldeo,water,fighting,Justified,,,91,72,90,129,90,108,580
+665,https://www.serebii.net/pokedex-bw/648.shtml,Meloetta,normal,psychic,Serene Grace,,,100,77,77,128,128,90,600
+666,https://www.serebii.net/pokedex-bw/648.shtml,Meloetta-Pirouette,normal,fighting,Serene Grace,,,100,128,90,77,77,128,600
+667,https://www.serebii.net/pokedex-bw/649.shtml,Genesect,bug,steel,Download,,,71,120,95,120,95,99,600
